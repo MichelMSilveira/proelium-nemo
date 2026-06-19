@@ -1,36 +1,14 @@
-\# N.E.M.O. - Núcleo de Engenharia e Memória Operacional
+\# 🧠 N.E.M.O.
+
+\# Núcleo de Engenharia e Memória Operacional
 
 
 
-\## Sobre o Projeto
+<p align="center">
 
+Assistente inteligente de engenharia, conhecimento técnico e automação.
 
-
-A N.E.M.O. (Núcleo de Engenharia e Memória Operacional) é um sistema de assistente inteligente desenvolvido para centralizar conhecimento técnico, processos, documentação e integração com tecnologias de automação.
-
-
-
-O projeto tem como objetivo criar uma inteligência auxiliar para apoiar engenharia, projetos, infraestrutura, automação residencial e comercial.
-
-
-
-\---
-
-
-
-\## Objetivos
-
-
-
-\- Organizar o conhecimento técnico da Proelium Serviços;
-
-\- Criar uma base de conhecimento inteligente;
-
-\- Desenvolver memória contextual para consultas;
-
-\- Integrar inteligência artificial com automação;
-
-\- Auxiliar processos de engenharia e atendimento técnico.
+</p>
 
 
 
@@ -38,7 +16,150 @@ O projeto tem como objetivo criar uma inteligência auxiliar para apoiar engenha
 
 
 
-\## Arquitetura Atual
+\# 📌 Visão Geral
+
+
+
+A \*\*N.E.M.O. (Núcleo de Engenharia e Memória Operacional)\*\* é uma plataforma de inteligência artificial desenvolvida para atuar como um assistente técnico inteligente, capaz de organizar conhecimento, auxiliar processos de engenharia e integrar informações relacionadas à infraestrutura, automação e tecnologia.
+
+
+
+O projeto nasceu dentro da \*\*Proelium Serviços\*\*, com o objetivo de criar uma inteligência auxiliar capaz de apoiar decisões técnicas, documentação, projetos e operação.
+
+
+
+\---
+
+
+
+\# 🎯 Missão
+
+
+
+Criar um sistema inteligente que una:
+
+
+
+\- Engenharia;
+
+\- Automação residencial e comercial;
+
+\- Redes profissionais;
+
+\- Segurança eletrônica;
+
+\- Áudio e vídeo;
+
+\- Documentação técnica;
+
+\- Inteligência artificial.
+
+
+
+\---
+
+
+
+\# 🏗️ Arquitetura do Projeto
+
+
+
+&#x20;               N.E.M.O.
+
+
+
+&#x20;                  │
+
+
+
+&#x20;   ┌──────────┼─────────────────┐
+
+
+
+&#x20;   │              │                     │
+
+&#x20;   │              │                     │
+
+&#x20;
+
+&#x20;   └────── Memória Inteligente  ────┘
+
+
+
+&#x20;                  │
+
+
+
+&#x20;         Assistente Inteligente
+
+
+
+&#x20;                  │
+
+
+
+&#x20;   Integração com Automação e Voz
+
+
+
+
+
+\---
+
+
+
+\# 📂 Estrutura Atual
+
+
+
+
+
+
+NEMO
+
+
+
+├── Conhecimento
+
+│ ├── Empresa
+
+│ ├── Processos
+
+│ ├── Automação
+
+│ ├── Redes
+
+│ ├── Segurança
+
+│ ├── Áudio e Vídeo
+
+│ ├── Equipamentos
+
+│ ├── Projetos
+
+│ └── Integração IA
+
+
+
+├── Sistema
+
+│ ├── Memória
+
+│ ├── Assistente
+
+│ ├── Testes
+
+│ └── Backups
+
+
+
+├── Documentacao
+
+│ └── Movimentos de Desenvolvimento
+
+
+
+└── Modelfile
 
 
 
@@ -52,7 +173,23 @@ O projeto tem como objetivo criar uma inteligência auxiliar para apoiar engenha
 
 
 
-\## Tecnologias Utilizadas
+\# ⚙️ Tecnologias
+
+
+
+\## Inteligência Artificial
+
+
+
+\- Ollama
+
+\- Modelos de linguagem locais
+
+\- Memória baseada em conhecimento
+
+
+
+\## Desenvolvimento
 
 
 
@@ -62,51 +199,17 @@ O projeto tem como objetivo criar uma inteligência auxiliar para apoiar engenha
 
 \- GitHub
 
-\- Ollama
 
-\- Banco vetorial
 
-\- Inteligência Artificial Local
-
-\- Automação Residencial
+\## Infraestrutura
 
 
 
-\---
+\- Redes profissionais
 
+\- Automação residencial
 
-
-\## Histórico de Desenvolvimento
-
-
-
-\### Movimento 1
-
-Fundação da N.E.M.O.
-
-
-
-\### Movimento 2
-
-Construção da Base de Conhecimento Proelium
-
-
-
-\### Movimento 3
-
-Desenvolvimento da Inteligência e Engenharia do Sistema
-
-
-
-\### Movimento 4
-
-Integração do Assistente Inteligente
-
-
-
-\### Movimento 5
-
-Profissionalização com Git e GitHub
+\- Integração de sistemas
 
 
 
@@ -114,19 +217,17 @@ Profissionalização com Git e GitHub
 
 
 
-\## Próximos Passos
+\# 📚 Histórico de Desenvolvimento
 
 
 
-\- Evolução da memória inteligente;
+\## Movimento 1
 
-\- Integração com voz;
+\### Fundação da N.E.M.O.
 
-\- Integração com automação residencial;
 
-\- Desenvolvimento de interface;
 
-\- Aprimoramento do assistente.
+Criação da identidade inicial e conceito do assistente.
 
 
 
@@ -134,15 +235,149 @@ Profissionalização com Git e GitHub
 
 
 
-\## Autor
+\## Movimento 2
+
+\### Base de Conhecimento Proelium
 
 
 
-Michel Silveira  
+Organização do conhecimento técnico e empresarial.
+
+
+
+\---
+
+
+
+\## Movimento 3
+
+\### Inteligência e Engenharia
+
+
+
+Desenvolvimento da lógica do sistema e memória.
+
+
+
+\---
+
+
+
+\## Movimento 4
+
+\### Integração do Assistente Inteligente
+
+
+
+Integração inicial entre conhecimento, IA e consultas.
+
+
+
+\---
+
+
+
+\## Movimento 5
+
+\### Profissionalização GitHub
+
+
+
+Implementação de controle de versão profissional.
+
+
+
+\---
+
+
+
+\# 🚀 Roadmap
+
+
+
+\## Curto Prazo
+
+
+
+\- \[ ] Melhorar memória inteligente
+
+\- \[ ] Criar interface de interação
+
+\- \[ ] Melhorar documentação
+
+\- \[ ] Criar testes automatizados
+
+
+
+\## Médio Prazo
+
+
+
+\- \[ ] Integração com voz
+
+\- \[ ] Integração com automação residencial
+
+\- \[ ] Controle de dispositivos inteligentes
+
+
+
+\## Longo Prazo
+
+
+
+\- \[ ] N.E.M.O. como assistente completo de engenharia
+
+\- \[ ] Inteligência operacional integrada
+
+\- \[ ] Plataforma própria Proelium
+
+
+
+\---
+
+
+
+\# 🧩 Filosofia do Projeto
+
+
+
+A N.E.M.O. não é apenas um software.
+
+
+
+É uma arquitetura de conhecimento criada para transformar experiência técnica em inteligência operacional.
+
+
+
+\---
+
+
+
+\# 👨‍💻 Desenvolvimento
+
+
+
+\*\*Michel Silveira\*\*  
 
 Proelium Serviços
 
 
 
-Projeto em desenvolvimento contínuo.
+Projeto em evolução contínua.
+
+
+
+\---
+
+
+
+⭐ Projeto privado em desenvolvimento.
+
+
+
+
+
+
+
+
 
