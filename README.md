@@ -1,6 +1,6 @@
-\# 🧠 N.E.M.O.
+# 🧠 N.E.M.O.
 
-\# Núcleo de Engenharia e Memória Operacional
+# Núcleo de Engenharia e Memória Operacional
 
 
 
@@ -12,11 +12,11 @@ Assistente inteligente de engenharia, conhecimento técnico e automação.
 
 
 
-\---
+---
 
 
 
-\# 📌 Visão Geral
+# 📌 Visão Geral
 
 
 
@@ -28,11 +28,11 @@ O projeto nasceu dentro da \*\*Proelium Serviços\*\*, com o objetivo de criar u
 
 
 
-\---
+---
 
 
 
-\# 🎯 Missão
+# 🎯 Missão
 
 
 
@@ -40,27 +40,27 @@ Criar um sistema inteligente que una:
 
 
 
-\- Engenharia;
+- Engenharia;
 
-\- Automação residencial e comercial;
+- Automação residencial e comercial;
 
-\- Redes profissionais;
+- Redes profissionais;
 
-\- Segurança eletrônica;
+- Segurança eletrônica;
 
-\- Áudio e vídeo;
+- Áudio e vídeo;
 
-\- Documentação técnica;
+- Documentação técnica;
 
-\- Inteligência artificial.
-
-
-
-\---
+- Inteligência artificial.
 
 
 
-\# 🏗️ Arquitetura do Projeto
+---
+
+
+
+# 🏗️ Arquitetura do Projeto
 
 
 
@@ -104,11 +104,11 @@ Criar um sistema inteligente que una:
 
 
 
-\---
+---
 
 
 
-\# 📂 Estrutura Atual
+# 📂 Estrutura Atual
 
 
 
@@ -169,61 +169,59 @@ NEMO
 
 
 
-\---
+---
+
+
+# ⚙️ Tecnologias
 
 
 
-\# ⚙️ Tecnologias
+## Inteligência Artificial
 
 
 
-\## Inteligência Artificial
+- Ollama
+
+- Modelos de linguagem locais
+
+- Memória baseada em conhecimento
 
 
 
-\- Ollama
-
-\- Modelos de linguagem locais
-
-\- Memória baseada em conhecimento
+## Desenvolvimento
 
 
 
-\## Desenvolvimento
+- Python
+
+- Git
+
+- GitHub
 
 
 
-\- Python
-
-\- Git
-
-\- GitHub
+## Infraestrutura
 
 
 
-\## Infraestrutura
+- Redes profissionais
+
+- Automação residencial
+
+- Integração de sistemas
 
 
 
-\- Redes profissionais
-
-\- Automação residencial
-
-\- Integração de sistemas
+---
 
 
 
-\---
+# 📚 Histórico de Desenvolvimento
 
 
+## Movimento 1
 
-\# 📚 Histórico de Desenvolvimento
-
-
-
-\## Movimento 1
-
-\### Fundação da N.E.M.O.
+### Fundação da N.E.M.O.
 
 
 
@@ -231,13 +229,13 @@ Criação da identidade inicial e conceito do assistente.
 
 
 
-\---
+---
 
 
 
-\## Movimento 2
+## Movimento 2
 
-\### Base de Conhecimento Proelium
+### Base de Conhecimento Proelium
 
 
 
@@ -245,27 +243,26 @@ Organização do conhecimento técnico e empresarial.
 
 
 
-\---
+---
 
 
 
-\## Movimento 3
+## Movimento 3
 
-\### Inteligência e Engenharia
+### Inteligência e Engenharia
 
 
 
 Desenvolvimento da lógica do sistema e memória.
 
 
-
-\---
-
+---
 
 
-\## Movimento 4
 
-\### Integração do Assistente Inteligente
+## Movimento 4
+
+### Integração do Assistente Inteligente
 
 
 
@@ -273,13 +270,13 @@ Integração inicial entre conhecimento, IA e consultas.
 
 
 
-\---
+---
 
 
 
-\## Movimento 5
+## Movimento 5
 
-\### Profissionalização GitHub
+### Profissionalização GitHub
 
 
 
@@ -287,57 +284,57 @@ Implementação de controle de versão profissional.
 
 
 
-\---
+---
 
 
 
-\# 🚀 Roadmap
+# 🚀 Roadmap
 
 
 
-\## Curto Prazo
+## Curto Prazo
 
 
 
-\- \[ ] Melhorar memória inteligente
+- \[ ] Melhorar memória inteligente
 
-\- \[ ] Criar interface de interação
+- \[ ] Criar interface de interação
 
-\- \[ ] Melhorar documentação
+- \[ ] Melhorar documentação
 
-\- \[ ] Criar testes automatizados
-
-
-
-\## Médio Prazo
+- \[ ] Criar testes automatizados
 
 
 
-\- \[ ] Integração com voz
-
-\- \[ ] Integração com automação residencial
-
-\- \[ ] Controle de dispositivos inteligentes
+## Médio Prazo
 
 
 
-\## Longo Prazo
+- [ ] Integração com voz
+
+- [ ] Integração com automação residencial
+
+- [ ] Controle de dispositivos inteligentes
 
 
 
-\- \[ ] N.E.M.O. como assistente completo de engenharia
-
-\- \[ ] Inteligência operacional integrada
-
-\- \[ ] Plataforma própria Proelium
+## Longo Prazo
 
 
 
-\---
+- [ ] N.E.M.O. como assistente completo de engenharia
+  
+- [ ] Inteligência operacional integrada
+
+- [ ] Plataforma própria Proelium
 
 
 
-\# 🧩 Filosofia do Projeto
+---
+
+
+
+# 🧩 Filosofia do Projeto
 
 
 
@@ -349,15 +346,15 @@ A N.E.M.O. não é apenas um software.
 
 
 
-\---
+---
 
 
 
-\# 👨‍💻 Desenvolvimento
+# 👨‍💻 Desenvolvimento
 
 
 
-\*\*Michel Silveira\*\*  
+###*\*Michel Silveira\*\*  
 
 Proelium Serviços
 
@@ -367,7 +364,7 @@ Projeto em evolução contínua.
 
 
 
-\---
+---
 
 
 
