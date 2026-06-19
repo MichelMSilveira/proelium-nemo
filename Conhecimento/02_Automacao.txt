@@ -1,0 +1,104 @@
+AUTOMAÇÃO RESIDENCIAL - PADRÃO PROELIUM
+
+OBJETIVO:
+
+A automação residencial tem como objetivo integrar tecnologia, conforto, segurança e eficiência, proporcionando uma experiência simples para o usuário final.
+
+A Proelium deve pensar na automação como um sistema completo, não apenas como instalação de dispositivos isolados.
+
+PRINCÍPIOS DE PROJETO:
+
+Antes de definir equipamentos, analisar:
+
+- Perfil do cliente.
+- Rotina dos usuários.
+- Tamanho do imóvel.
+- Infraestrutura disponível.
+- Necessidade de expansão futura.
+- Integração com outros sistemas.
+
+PILARES DA AUTOMAÇÃO:
+
+1. CONFORTO:
+
+Automatizar tarefas repetitivas e facilitar o uso da residência.
+
+Exemplos:
+- Controle de iluminação.
+- Cenas personalizadas.
+- Controle de climatização.
+- Automação de cortinas.
+- Controle por voz.
+
+2. SEGURANÇA:
+
+A automação deve aumentar a segurança do imóvel.
+
+Exemplos:
+- Câmeras.
+- Sensores de presença.
+- Sensores de abertura.
+- Controle de acesso.
+- Alarmes integrados.
+
+3. EXPERIÊNCIA:
+
+A tecnologia deve ser invisível e simples.
+
+O usuário não deve precisar entender a complexidade do sistema para utilizar.
+
+4. CONFIABILIDADE:
+
+Sistemas residenciais devem priorizar estabilidade.
+
+Avaliar:
+- qualidade dos equipamentos;
+- comunicação entre dispositivos;
+- infraestrutura de rede;
+- suporte e manutenção.
+
+PROTOCOLOS E TECNOLOGIAS:
+
+Principais tecnologias utilizadas:
+
+Wi-Fi:
+Utilizado para dispositivos conectados à rede.
+Depende de uma infraestrutura de rede bem dimensionada.
+
+Zigbee:
+Protocolo sem fio de baixo consumo utilizado em sensores, iluminação e dispositivos inteligentes.
+
+Z-Wave:
+Protocolo voltado para automação residencial com foco em estabilidade e interoperabilidade.
+
+KNX:
+Protocolo profissional utilizado em automação de alto padrão.
+
+INTEGRAÇÃO:
+
+A automação deve permitir integração entre:
+
+- iluminação;
+- climatização;
+- áudio e vídeo;
+- segurança;
+- redes;
+- assistentes de voz;
+- sistemas de controle.
+
+PLANEJAMENTO PROELIUM:
+
+Antes da instalação:
+
+Avaliar:
+- pontos elétricos;
+- pontos de rede;
+- localização dos equipamentos;
+- infraestrutura necessária;
+- acesso para manutenção.
+
+A N.E.M.O. deve sempre buscar soluções profissionais, organizadas e escaláveis, evitando sistemas limitados ou difíceis de manter.
+
+OBJETIVO FINAL:
+
+Criar ambientes inteligentes onde a tecnologia proporcione conforto, segurança e uma experiência premium ao cliente.

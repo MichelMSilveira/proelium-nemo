@@ -1,0 +1,156 @@
+DIMENSIONAMENTO DE REDES PROELIUM
+
+OBJETIVO
+
+Definir corretamente a infraestrutura de rede necessária para cada projeto.
+
+PRINCÍPIOS
+
+A rede deve ser projetada considerando:
+
+- desempenho;
+- estabilidade;
+- escalabilidade;
+- segurança;
+- facilidade de manutenção.
+
+COLETA DE DADOS
+
+Levantar:
+
+- área total;
+- número de pavimentos;
+- quantidade de ambientes;
+- quantidade de usuários;
+- quantidade de dispositivos;
+- velocidade da internet.
+
+CLASSIFICAÇÃO DE PORTE
+
+Pequeno:
+
+- até 20 dispositivos.
+
+Médio:
+
+- 20 a 60 dispositivos.
+
+Grande:
+
+- acima de 60 dispositivos.
+
+DISPOSITIVOS A CONSIDERAR
+
+Computadores.
+
+Notebooks.
+
+Celulares.
+
+Tablets.
+
+TVs.
+
+Câmeras IP.
+
+Controladores.
+
+Automação.
+
+Assistentes de voz.
+
+Videogames.
+
+Equipamentos IoT.
+
+DIMENSIONAMENTO DE ACCESS POINTS
+
+Considerar:
+
+- área coberta;
+- paredes;
+- lajes;
+- interferências;
+- quantidade de usuários.
+
+Regra inicial:
+
+Residencial:
+
+- aproximadamente 1 AP para cada 80 a 120 m².
+
+Alto padrão:
+
+- aproximadamente 1 AP para cada 60 a 80 m².
+
+Sempre validar cobertura real posteriormente.
+
+DIMENSIONAMENTO DE SWITCHES
+
+Calcular:
+
+Total de portas necessárias.
+
+Adicionar:
+
+- mínimo 20% de reserva para expansão.
+
+Priorizar switches gerenciáveis em projetos profissionais.
+
+DIMENSIONAMENTO DE CABEAMENTO
+
+Priorizar:
+
+- Cat6;
+- Cat6A quando necessário.
+
+Prever pontos para:
+
+- TVs;
+- APs;
+- Câmeras;
+- Automação;
+- Áudio e Vídeo;
+- Computadores.
+
+DIMENSIONAMENTO DE RACK
+
+Considerar:
+
+- patch panels;
+- switches;
+- NVR;
+- controladores;
+- organizadores;
+- nobreak.
+
+Sempre prever espaço livre para expansão.
+
+SEGMENTAÇÃO DE REDE
+
+Quando aplicável:
+
+- rede principal;
+- visitantes;
+- automação;
+- segurança;
+- áudio e vídeo.
+
+PADRÃO PROELIUM
+
+Nunca dimensionar apenas pelo tamanho da internet.
+
+O projeto deve considerar a quantidade de dispositivos e o uso simultâneo.
+
+REGRA DA N.E.M.O.
+
+Ao receber informações de um imóvel, calcular:
+
+- quantidade estimada de APs;
+- quantidade estimada de portas;
+- tamanho de rack recomendado;
+- necessidade de segmentação.
+
+RESULTADO ESPERADO
+
+Rede estável, escalável e adequada ao perfil do cliente.

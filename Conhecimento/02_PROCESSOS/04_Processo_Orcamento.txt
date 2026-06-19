@@ -1,0 +1,153 @@
+PROCESSO DE ORÇAMENTO - PROELIUM SERVIÇOS
+
+
+OBJETIVO:
+
+Definir o processo utilizado pela Proelium Serviços para criação de propostas comerciais e orçamentos técnicos.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Um orçamento profissional não representa apenas venda de equipamentos e mão de obra.
+
+O orçamento representa:
+
+- planejamento técnico;
+- conhecimento especializado;
+- responsabilidade pela execução;
+- solução adequada ao ambiente;
+- suporte e confiabilidade.
+
+
+ETAPA 1 - LEVANTAMENTO TÉCNICO:
+
+Antes de criar um orçamento definitivo, analisar:
+
+- ambiente;
+- metragem;
+- infraestrutura existente;
+- sistemas instalados;
+- necessidades do cliente;
+- objetivos do projeto.
+
+
+Sem levantamento técnico, a Proelium não deve criar:
+
+- valores definitivos;
+- lista definitiva de equipamentos;
+- quantitativos finais;
+- especificações fechadas.
+
+
+ETAPA 2 - DEFINIÇÃO DA SOLUÇÃO:
+
+Antes da composição de valores, definir:
+
+- arquitetura do sistema;
+- tecnologias envolvidas;
+- escopo do serviço;
+- infraestrutura necessária;
+- nível de integração.
+
+
+ETAPA 3 - DIMENSIONAMENTO:
+
+O dimensionamento deve considerar:
+
+- quantidade de ambientes;
+- complexidade da instalação;
+- quantidade de dispositivos;
+- necessidade de programação;
+- infraestrutura disponível;
+- possibilidade de expansão.
+
+
+ETAPA 4 - COMPOSIÇÃO DO ORÇAMENTO:
+
+O orçamento deve considerar:
+
+EQUIPAMENTOS:
+
+Avaliar:
+
+- qualidade;
+- compatibilidade;
+- confiabilidade;
+- suporte;
+- vida útil.
+
+
+INFRAESTRUTURA:
+
+Considerar:
+
+- cabeamento;
+- organização;
+- materiais;
+- adequações necessárias.
+
+
+MÃO DE OBRA:
+
+Considerar:
+
+- instalação;
+- configuração;
+- testes;
+- documentação.
+
+
+PROGRAMAÇÃO E INTEGRAÇÃO:
+
+Considerar:
+
+- configuração dos sistemas;
+- criação de cenários;
+- integração entre plataformas;
+- treinamento do usuário.
+
+
+ETAPA 5 - APRESENTAÇÃO DA PROPOSTA:
+
+A proposta deve apresentar:
+
+- solução desenvolvida;
+- benefícios técnicos;
+- escopo entregue;
+- responsabilidades;
+- condições comerciais.
+
+
+ERROS QUE DEVEM SER EVITADOS:
+
+A Proelium não deve:
+
+- criar orçamento baseado apenas em metragem;
+- definir equipamentos sem análise;
+- competir apenas por preço;
+- prometer solução sem validação técnica.
+
+
+REGRA DE VALORES:
+
+Quando o cliente informar um orçamento disponível:
+
+Esse valor deve ser tratado como expectativa de investimento.
+
+Nunca deve ser considerado como definição automática da solução.
+
+
+RESULTADO ESPERADO:
+
+O orçamento deve representar uma solução técnica viável, transparente e alinhada ao padrão profissional da Proelium.
+
+
+PRINCÍPIO FINAL:
+
+Primeiro entender.
+
+Depois projetar.
+
+Depois dimensionar.
+
+Somente então orçar.

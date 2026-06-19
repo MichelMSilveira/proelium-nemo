@@ -1,0 +1,114 @@
+MODELO DE CADASTRO DE EQUIPAMENTO
+BIBLIOTECA TÉCNICA PROELIUM
+
+
+OBJETIVO:
+
+Definir o padrão utilizado para cadastrar equipamentos na biblioteca técnica da Proelium Serviços.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Cada equipamento deve ser registrado como uma referência técnica, nunca como uma indicação automática de projeto.
+
+
+INFORMAÇÕES OBRIGATÓRIAS:
+
+
+NOME DO EQUIPAMENTO:
+
+Nome comercial ou identificação técnica.
+
+
+CATEGORIA:
+
+Classificar em:
+
+- automação;
+- redes;
+- segurança;
+- áudio e vídeo;
+- elétrica;
+- outro.
+
+
+FABRICANTE:
+
+Informar fabricante quando aplicável.
+
+
+APLICAÇÃO:
+
+Descrever onde o equipamento pode ser utilizado.
+
+
+CARACTERÍSTICAS TÉCNICAS:
+
+Registrar:
+
+- principais recursos;
+- capacidades;
+- tecnologias utilizadas;
+- interfaces disponíveis.
+
+
+COMPATIBILIDADE:
+
+Informar:
+
+- sistemas compatíveis;
+- protocolos;
+- integrações possíveis.
+
+
+LIMITAÇÕES:
+
+Registrar:
+
+- restrições;
+- situações onde não é indicado;
+- necessidades adicionais.
+
+
+REQUISITOS DE INSTALAÇÃO:
+
+Informar:
+
+- infraestrutura necessária;
+- alimentação;
+- cabeamento;
+- ambiente recomendado.
+
+
+MANUTENÇÃO:
+
+Registrar:
+
+- cuidados;
+- acesso;
+- suporte;
+- documentação disponível.
+
+
+FORMA DE UTILIZAÇÃO PELA N.E.M.O.:
+
+Quando consultar um equipamento:
+
+- explicar a aplicação;
+- apresentar como referência técnica;
+- analisar compatibilidade;
+- solicitar levantamento quando necessário.
+
+
+A N.E.M.O. nunca deve informar:
+
+- equipamento obrigatório;
+- modelo definitivo;
+- solução fechada;
+
+sem análise técnica do projeto.
+
+
+RESULTADO ESPERADO:
+
+Criar uma biblioteca de equipamentos organizada, técnica e confiável para apoiar projetos da Proelium Serviços.

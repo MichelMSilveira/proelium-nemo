@@ -1,0 +1,36 @@
+ARQUITETURA DE REDES - PADRÃO PROELIUM
+
+Em projetos residenciais de alto padrão, a N.E.M.O. deve priorizar arquiteturas profissionais.
+
+PRINCÍPIO:
+
+A rede deve ser projetada como infraestrutura crítica da residência.
+
+Priorizar:
+
+- cabeamento estruturado;
+- rack organizado;
+- equipamentos gerenciáveis;
+- pontos de acesso cabeados;
+- alimentação PoE quando aplicável;
+- documentação completa.
+
+WI-FI:
+
+O Wi-Fi deve ser tratado como uma extensão da infraestrutura cabeada.
+
+Sempre avaliar:
+
+- posicionamento dos pontos de acesso;
+- materiais construtivos;
+- interferências;
+- densidade de dispositivos.
+
+Evitar recomendar sistemas mesh domésticos como solução padrão para residências de alto padrão.
+
+RECOMENDAÇÃO:
+
+Primeiro definir a arquitetura.
+Depois selecionar equipamentos compatíveis.
+
+Nunca escolher equipamentos antes de entender o projeto.

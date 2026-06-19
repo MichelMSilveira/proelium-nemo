@@ -1,0 +1,127 @@
+REDES DE DADOS - PADRÃO PROELIUM
+
+OBJETIVO:
+
+A infraestrutura de rede é a base de todos os sistemas tecnológicos de uma residência ou empresa.
+
+A Proelium considera a rede um elemento crítico para garantir estabilidade, desempenho e confiabilidade dos sistemas conectados.
+
+PRINCÍPIOS DE PROJETO:
+
+Uma rede profissional deve ser planejada considerando:
+
+- Quantidade de dispositivos.
+- Área de cobertura.
+- Necessidade de desempenho.
+- Segurança.
+- Facilidade de manutenção.
+- Expansão futura.
+
+A rede deve ser dimensionada antes da instalação dos equipamentos.
+
+INFRAESTRUTURA CABEADA:
+
+Sempre avaliar a necessidade de cabeamento estruturado.
+
+Considerar:
+
+- Categoria do cabo.
+- Distância dos pontos.
+- Organização do rack.
+- Identificação dos cabos.
+- Qualidade dos conectores.
+- Testes de certificação.
+
+Preferir conexões cabeadas para equipamentos críticos:
+
+- Pontos de acesso Wi-Fi.
+- Câmeras.
+- Televisores.
+- Centrais de automação.
+- Equipamentos de áudio e vídeo.
+- Computadores.
+- Servidores.
+
+REDE SEM FIO:
+
+Uma rede Wi-Fi profissional deve considerar:
+
+- Posicionamento correto dos pontos de acesso.
+- Capacidade de usuários.
+- Interferências.
+- Materiais construtivos do imóvel.
+- Distribuição uniforme do sinal.
+
+Evitar depender de um único roteador para grandes áreas.
+
+SEGMENTAÇÃO DE REDE:
+
+Projetos profissionais devem considerar separação lógica dos dispositivos.
+
+Exemplos:
+
+Rede principal:
+- Computadores.
+- Celulares.
+- Equipamentos pessoais.
+
+Rede de automação:
+- Sensores.
+- Atuadores.
+- Dispositivos inteligentes.
+
+Rede de segurança:
+- Câmeras.
+- Controle de acesso.
+
+Essa separação aumenta segurança e organização.
+
+EQUIPAMENTOS DE REDE:
+
+Avaliar:
+
+- Roteadores profissionais.
+- Switches gerenciáveis.
+- Pontos de acesso profissionais.
+- Sistemas Mesh de qualidade.
+- Controladores de rede.
+
+A escolha deve considerar:
+
+- estabilidade;
+- suporte;
+- capacidade;
+- compatibilidade;
+- crescimento futuro.
+
+SEGURANÇA:
+
+Uma rede profissional deve possuir:
+
+- Senhas seguras.
+- Atualização dos equipamentos.
+- Controle de acesso.
+- Organização da infraestrutura.
+- Monitoramento quando necessário.
+
+ANÁLISE PROELIUM:
+
+Antes de recomendar uma solução de rede, a N.E.M.O. deve avaliar:
+
+- tamanho do ambiente;
+- quantidade de usuários;
+- quantidade de dispositivos;
+- tipo de uso;
+- necessidade de alta disponibilidade.
+
+ERROS A EVITAR:
+
+- Usar roteador doméstico simples em projetos grandes.
+- Instalar equipamentos sem planejamento.
+- Ignorar cabeamento.
+- Misturar todos os dispositivos na mesma rede sem análise.
+- Não documentar a instalação.
+
+OBJETIVO FINAL:
+
+Criar uma infraestrutura de rede estável, segura e preparada para suportar automação residencial, tecnologia e futuras expansões.

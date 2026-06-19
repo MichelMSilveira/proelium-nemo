@@ -1,0 +1,92 @@
+FABRICANTE: CONTROLART
+BIBLIOTECA TÉCNICA PROELIUM
+
+
+IDENTIFICAÇÃO:
+
+Nome:
+
+ControlART
+
+Área de atuação:
+
+Automação residencial, comercial e integração de sistemas.
+
+
+POSICIONAMENTO:
+
+A ControlART é uma plataforma brasileira de automação voltada para projetos personalizados, permitindo integração de diferentes sistemas tecnológicos em ambientes residenciais e comerciais.
+
+
+APLICAÇÕES:
+
+Utilização:
+
+- residências;
+- apartamentos;
+- escritórios;
+- salas de reunião;
+- projetos personalizados.
+
+
+PRINCIPAIS SOLUÇÕES:
+
+- controladores de automação;
+- módulos de acionamento;
+- interfaces;
+- integração de sistemas;
+- controle de ambientes.
+
+
+PONTOS FORTES:
+
+- desenvolvimento nacional;
+- flexibilidade de projetos;
+- integração personalizada;
+- atendimento direcionado.
+
+
+LIMITAÇÕES:
+
+Avaliar:
+
+- disponibilidade de recursos;
+- complexidade do projeto;
+- necessidade de programação;
+- arquitetura escolhida.
+
+
+COMPATIBILIDADE:
+
+Pode integrar:
+
+- iluminação;
+- climatização;
+- áudio e vídeo;
+- persianas;
+- sistemas de segurança;
+- redes IP.
+
+
+PADRÃO PROELIUM:
+
+Classificação:
+
+Referência para projetos de automação personalizada.
+
+
+REGRA DA N.E.M.O.:
+
+A ControlART deve ser avaliada conforme o perfil do projeto e necessidades do cliente.
+
+A escolha depende:
+
+- quantidade de ambientes;
+- nível de automação;
+- integrações necessárias;
+- orçamento.
+
+
+RESULTADO ESPERADO:
+
+Criar automações confiáveis e personalizadas, alinhadas ao padrão técnico da Proelium Serviços.

@@ -1,0 +1,97 @@
+RACK E ORGANIZAÇÃO TÉCNICA
+PADRÃO PROELIUM
+
+
+OBJETIVO:
+
+Definir os princípios utilizados pela Proelium Serviços para organização física dos equipamentos tecnológicos instalados em racks residenciais e comerciais.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+O rack representa o centro de organização da infraestrutura tecnológica.
+
+Uma instalação profissional deve priorizar:
+
+- organização;
+- identificação;
+- segurança;
+- facilidade de manutenção;
+- possibilidade de expansão.
+
+
+FUNÇÃO DO RACK:
+
+O rack deve concentrar e organizar equipamentos como:
+
+- switches;
+- patch panels;
+- roteadores;
+- controladores de automação;
+- equipamentos de segurança;
+- equipamentos de áudio e vídeo;
+- servidores ou dispositivos de gerenciamento.
+
+
+ORGANIZAÇÃO FÍSICA:
+
+A instalação deve considerar:
+
+- posicionamento adequado dos equipamentos;
+- passagem organizada de cabos;
+- identificação dos componentes;
+- acabamento profissional.
+
+
+PATCH PANEL E SWITCH:
+
+A organização entre patch panel e switch deve permitir:
+
+- fácil identificação dos pontos;
+- manutenção rápida;
+- alterações futuras;
+- redução de erros.
+
+
+ALIMENTAÇÃO ELÉTRICA:
+
+Avaliar:
+
+- quantidade de equipamentos;
+- necessidade de proteção elétrica;
+- utilização de nobreak quando aplicável;
+- organização das fontes de alimentação.
+
+
+VENTILAÇÃO:
+
+Equipamentos eletrônicos devem possuir condições adequadas de funcionamento considerando:
+
+- dissipação de calor;
+- circulação de ar;
+- ambiente de instalação.
+
+
+DOCUMENTAÇÃO:
+
+Uma instalação profissional deve registrar:
+
+- equipamentos instalados;
+- portas utilizadas;
+- identificação dos cabos;
+- configurações importantes.
+
+
+ERROS A EVITAR:
+
+A Proelium não deve:
+
+- deixar cabos desorganizados;
+- instalar equipamentos sem identificação;
+- criar racks difíceis de manter;
+- ignorar expansão futura.
+
+
+RESULTADO ESPERADO:
+
+Entregar um rack organizado, profissional e preparado para manutenção e evolução tecnológica do projeto.

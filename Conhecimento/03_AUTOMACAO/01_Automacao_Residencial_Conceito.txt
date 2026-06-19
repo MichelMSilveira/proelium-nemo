@@ -1,0 +1,125 @@
+AUTOMAÇÃO RESIDENCIAL - CONCEITO TÉCNICO
+PROELIUM SERVIÇOS
+
+
+OBJETIVO:
+
+Definir o conceito de automação residencial utilizado pela Proelium Serviços.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Automação residencial não deve ser tratada como instalação de dispositivos isolados.
+
+Uma solução profissional deve integrar tecnologia, conforto, segurança, experiência do usuário e confiabilidade.
+
+
+PILARES DA AUTOMAÇÃO RESIDENCIAL:
+
+
+CONFORTO:
+
+A automação deve simplificar tarefas do usuário através de:
+
+- controle de iluminação;
+- criação de cenas;
+- controle de climatização;
+- controle de cortinas;
+- acionamentos automatizados.
+
+
+SEGURANÇA:
+
+A automação pode integrar:
+
+- câmeras;
+- sensores;
+- alarmes;
+- controle de acesso;
+- monitoramento remoto.
+
+
+EXPERIÊNCIA DO USUÁRIO:
+
+A tecnologia deve ser simples para o cliente.
+
+O usuário não deve precisar compreender a complexidade do sistema para utilizar seus recursos.
+
+
+CONFIABILIDADE:
+
+Um sistema profissional deve considerar:
+
+- estabilidade;
+- comunicação adequada entre dispositivos;
+- documentação;
+- manutenção;
+- possibilidade de expansão.
+
+
+ARQUITETURA DE AUTOMAÇÃO:
+
+Antes de definir equipamentos analisar:
+
+- perfil do usuário;
+- rotina da residência;
+- quantidade de ambientes;
+- infraestrutura elétrica;
+- infraestrutura de rede;
+- sistemas existentes.
+
+
+TIPOS DE CONTROLE:
+
+Uma automação pode utilizar:
+
+- aplicativos;
+- teclados;
+- telas de controle;
+- comandos de voz;
+- sensores;
+- automações programadas.
+
+
+INTEGRAÇÃO DE SISTEMAS:
+
+A automação pode integrar:
+
+- iluminação;
+- áudio e vídeo;
+- climatização;
+- segurança;
+- redes;
+- persianas e cortinas.
+
+
+CRITÉRIO PROELIUM:
+
+A escolha da tecnologia deve considerar:
+
+- aplicação;
+- confiabilidade;
+- compatibilidade;
+- suporte;
+- possibilidade de expansão.
+
+
+ERRO A SER EVITADO:
+
+Não iniciar um projeto escolhendo equipamentos.
+
+Primeiro definir a necessidade.
+
+Depois definir a arquitetura.
+
+Depois escolher a tecnologia.
+
+
+RESULTADO ESPERADO:
+
+Criar uma solução inteligente, estável e preparada para evolução futura.
+
+
+PRINCÍPIO FINAL:
+
+A automação residencial deve ser invisível para o usuário, mas entregar uma experiência superior.

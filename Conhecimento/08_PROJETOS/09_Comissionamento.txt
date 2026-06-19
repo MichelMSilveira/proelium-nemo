@@ -1,0 +1,102 @@
+COMISSIONAMENTO PROELIUM
+
+OBJETIVO
+
+Validar todos os sistemas instalados antes da entrega ao cliente.
+
+PRINCÍPIOS
+
+Nenhum projeto deve ser entregue sem testes completos.
+
+Todo sistema deve operar de forma estável e documentada.
+
+VERIFICAÇÃO DE REDE
+
+Testar:
+
+- acesso à internet;
+- estabilidade da conexão;
+- switches;
+- access points;
+- VLANs;
+- dispositivos conectados.
+
+VERIFICAÇÃO DE AUTOMAÇÃO
+
+Testar:
+
+- cenas;
+- comandos;
+- aplicativos;
+- integrações;
+- automações programadas.
+
+VERIFICAÇÃO DE SEGURANÇA
+
+Testar:
+
+- câmeras;
+- gravação;
+- monitoramento remoto;
+- alarmes;
+- sensores;
+- controle de acesso.
+
+VERIFICAÇÃO DE ÁUDIO E VÍDEO
+
+Testar:
+
+- áudio;
+- vídeo;
+- sincronismo;
+- comandos;
+- integrações.
+
+VERIFICAÇÃO ELÉTRICA
+
+Confirmar:
+
+- alimentação correta;
+- aterramento;
+- proteção elétrica;
+- nobreaks.
+
+VERIFICAÇÃO DE DOCUMENTAÇÃO
+
+Confirmar:
+
+- relatórios atualizados;
+- identificação dos equipamentos;
+- informações de acesso registradas.
+
+TREINAMENTO DO CLIENTE
+
+Apresentar:
+
+- operação básica;
+- aplicativos;
+- procedimentos simples;
+- suporte disponível.
+
+CRITÉRIOS DE APROVAÇÃO
+
+Todos os sistemas devem:
+
+- funcionar corretamente;
+- responder aos comandos;
+- operar sem falhas aparentes;
+- atender ao escopo contratado.
+
+PADRÃO PROELIUM
+
+Instalação concluída não significa projeto concluído.
+
+Projeto concluído significa sistema validado e entregue.
+
+REGRA DA N.E.M.O.
+
+Sempre recomendar testes finais antes da entrega ao cliente.
+
+RESULTADO ESPERADO
+
+Entrega profissional com funcionamento validado e redução de chamados pós-obra.

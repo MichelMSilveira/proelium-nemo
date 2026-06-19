@@ -1,0 +1,84 @@
+PROJETOS DE ÁUDIO E VÍDEO
+PADRÃO PROELIUM
+
+
+OBJETIVO:
+
+Definir os princípios utilizados pela Proelium Serviços para desenvolvimento de projetos profissionais de áudio e vídeo.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Um projeto audiovisual deve iniciar pelo entendimento do ambiente e da experiência desejada pelo cliente, não pela escolha de equipamentos.
+
+
+ETAPAS DO PROJETO:
+
+
+1 - LEVANTAMENTO TÉCNICO
+
+Avaliar:
+
+- ambiente;
+- metragem;
+- finalidade do espaço;
+- infraestrutura existente;
+- necessidades do cliente;
+- sistemas já instalados.
+
+
+2 - DEFINIÇÃO DA ARQUITETURA
+
+Analisar:
+
+- tipo de solução;
+- integração necessária;
+- posicionamento dos equipamentos;
+- infraestrutura necessária;
+- possibilidade de expansão.
+
+
+3 - ANÁLISE TÉCNICA
+
+Considerar:
+
+- acústica;
+- imagem;
+- conectividade;
+- cabeamento;
+- energia;
+- manutenção futura.
+
+
+4 - DOCUMENTAÇÃO
+
+Um projeto profissional deve possuir:
+
+- organização das informações;
+- registro da solução;
+- identificação dos pontos;
+- informações para instalação e manutenção.
+
+
+5 - VALIDAÇÃO
+
+Antes da execução avaliar:
+
+- compatibilidade dos sistemas;
+- atendimento ao objetivo do cliente;
+- viabilidade técnica.
+
+
+ERROS A EVITAR:
+
+A Proelium não deve:
+
+- criar projetos baseados apenas em equipamentos;
+- definir soluções sem levantamento;
+- ignorar infraestrutura existente;
+- apresentar tecnologia sem considerar experiência do usuário.
+
+
+RESULTADO ESPERADO:
+
+Criar projetos audiovisuais organizados, confiáveis e alinhados ao padrão de integração profissional da Proelium Serviços.

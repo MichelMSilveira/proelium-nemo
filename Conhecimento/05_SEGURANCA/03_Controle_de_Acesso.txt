@@ -1,0 +1,87 @@
+CONTROLE DE ACESSO
+PADRÃO PROELIUM
+
+
+OBJETIVO:
+
+Definir os princípios utilizados pela Proelium Serviços para planejamento e integração de sistemas de controle de acesso residencial e comercial.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Controle de acesso tem como objetivo gerenciar quem pode acessar determinados ambientes, aumentando segurança, organização e controle do imóvel.
+
+
+LEVANTAMENTO TÉCNICO:
+
+Antes de definir uma solução avaliar:
+
+- tipo de imóvel;
+- quantidade de usuários;
+- quantidade de acessos;
+- ambientes que necessitam controle;
+- integração desejada;
+- infraestrutura existente.
+
+
+TIPOS DE APLICAÇÃO:
+
+Sistemas de controle de acesso podem ser utilizados em:
+
+- portas de entrada;
+- portões;
+- áreas restritas;
+- escritórios;
+- condomínios;
+- ambientes técnicos.
+
+
+TECNOLOGIAS POSSÍVEIS:
+
+A solução pode utilizar:
+
+- biometria;
+- senha;
+- cartão;
+- tags;
+- reconhecimento facial;
+- aplicativos;
+- integração com automação.
+
+
+INTEGRAÇÃO:
+
+O controle de acesso pode trabalhar integrado com:
+
+- câmeras;
+- alarmes;
+- automação residencial;
+- iluminação;
+- notificações;
+- gerenciamento remoto.
+
+
+SEGURANÇA E CONFIGURAÇÃO:
+
+Avaliar:
+
+- níveis de permissão;
+- cadastro de usuários;
+- registros de acesso;
+- segurança das informações;
+- facilidade de manutenção.
+
+
+ERROS A EVITAR:
+
+A Proelium não deve:
+
+- escolher equipamentos sem entender a aplicação;
+- liberar acessos sem controle;
+- ignorar integração futura;
+- instalar sistemas sem documentação.
+
+
+RESULTADO ESPERADO:
+
+Criar soluções de controle de acesso seguras, confiáveis e integradas ao ambiente tecnológico do cliente.

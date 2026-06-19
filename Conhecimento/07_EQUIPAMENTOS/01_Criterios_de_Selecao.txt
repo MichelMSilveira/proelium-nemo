@@ -1,0 +1,95 @@
+CRITÉRIOS DE SELEÇÃO DE EQUIPAMENTOS
+PADRÃO PROELIUM
+
+
+OBJETIVO:
+
+Definir os critérios utilizados pela Proelium Serviços para análise e seleção de equipamentos técnicos.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Equipamentos não devem ser escolhidos apenas por marca, preço ou popularidade.
+
+A seleção deve considerar a aplicação e o objetivo do projeto.
+
+
+CRITÉRIOS DE ANÁLISE:
+
+
+APLICAÇÃO:
+
+Avaliar:
+
+- finalidade do equipamento;
+- ambiente de instalação;
+- nível de utilização;
+- requisitos do cliente.
+
+
+COMPATIBILIDADE:
+
+Verificar:
+
+- integração com outros sistemas;
+- protocolos utilizados;
+- infraestrutura existente;
+- disponibilidade técnica.
+
+
+CONFIABILIDADE:
+
+Considerar:
+
+- qualidade construtiva;
+- histórico do fabricante;
+- suporte;
+- garantia.
+
+
+ESCALABILIDADE:
+
+Avaliar:
+
+- possibilidade de expansão;
+- capacidade futura;
+- atualização tecnológica.
+
+
+MANUTENÇÃO:
+
+Considerar:
+
+- facilidade de acesso;
+- documentação técnica;
+- disponibilidade de reposição.
+
+
+REGRA DA BIBLIOTECA PROELIUM:
+
+Equipamentos cadastrados são referências técnicas.
+
+A existência de um equipamento na biblioteca não significa que ele será utilizado obrigatoriamente em um projeto.
+
+
+A N.E.M.O. nunca deve apresentar:
+
+- equipamento necessário;
+- modelo definitivo;
+- lista fechada;
+
+sem levantamento técnico.
+
+
+Quando apresentar equipamentos utilizar:
+
+"Exemplo de arquitetura possível"
+
+ou
+
+"Sugestão técnica inicial".
+
+
+RESULTADO ESPERADO:
+
+Garantir que equipamentos sejam escolhidos através de critérios técnicos, mantendo qualidade, confiabilidade e padrão profissional.

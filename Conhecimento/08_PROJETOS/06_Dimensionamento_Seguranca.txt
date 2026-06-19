@@ -1,0 +1,135 @@
+DIMENSIONAMENTO DE SEGURANÇA PROELIUM
+
+OBJETIVO
+
+Definir corretamente sistemas de segurança eletrônica para ambientes residenciais e comerciais.
+
+PRINCÍPIOS
+
+A segurança deve ser:
+
+- preventiva;
+- confiável;
+- escalável;
+- integrada;
+- simples de operar.
+
+LEVANTAMENTO INICIAL
+
+Identificar:
+
+- tipo do imóvel;
+- área total;
+- quantidade de acessos;
+- áreas vulneráveis;
+- necessidade de monitoramento.
+
+ANÁLISE DE RISCO
+
+Avaliar:
+
+- perímetro;
+- muros;
+- portões;
+- acessos de veículos;
+- acessos de pedestres;
+- áreas externas;
+- áreas internas.
+
+DIMENSIONAMENTO DE CÂMERAS
+
+Considerar:
+
+- área a monitorar;
+- altura de instalação;
+- distância de visualização;
+- iluminação;
+- necessidade de reconhecimento facial;
+- necessidade de leitura de placas.
+
+TIPOS DE CÂMERAS
+
+Bullet:
+
+- áreas externas.
+
+Dome:
+
+- áreas internas.
+
+PTZ:
+
+- grandes áreas.
+
+LPR:
+
+- leitura de placas.
+
+NVR
+
+Dimensionar considerando:
+
+- quantidade de câmeras;
+- resolução;
+- tempo de armazenamento desejado.
+
+ARMAZENAMENTO
+
+Considerar:
+
+- 15 dias;
+- 30 dias;
+- 60 dias;
+- 90 dias.
+
+Definir conforme necessidade do cliente.
+
+CONTROLE DE ACESSO
+
+Avaliar:
+
+- portas;
+- portões;
+- áreas restritas;
+- quantidade de usuários.
+
+ALARMES
+
+Considerar:
+
+- sensores magnéticos;
+- sensores infravermelhos;
+- sensores externos;
+- sensores de quebra de vidro.
+
+INTEGRAÇÃO
+
+Sempre avaliar integração com:
+
+- automação;
+- controle de acesso;
+- iluminação;
+- aplicativos móveis.
+
+MONITORAMENTO REMOTO
+
+Priorizar acesso seguro por aplicativo ou plataforma dedicada.
+
+PADRÃO PROELIUM
+
+Nenhum projeto deve ser baseado apenas na quantidade de câmeras.
+
+O objetivo é eliminar pontos cegos e aumentar a capacidade de monitoramento.
+
+REGRA DA N.E.M.O.
+
+Ao analisar um imóvel:
+
+- identificar riscos;
+- sugerir posicionamento de câmeras;
+- estimar quantidade de dispositivos;
+- recomendar armazenamento adequado.
+
+RESULTADO ESPERADO
+
+Sistema de segurança eficiente, integrado e alinhado às necessidades do cliente.

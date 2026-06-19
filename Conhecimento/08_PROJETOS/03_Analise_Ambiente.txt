@@ -1,0 +1,110 @@
+ANÁLISE DE AMBIENTE PROELIUM
+
+OBJETIVO
+
+Avaliar as características físicas e funcionais do ambiente para definir as melhores soluções técnicas.
+
+PRINCÍPIOS
+
+Cada ambiente possui necessidades específicas.
+
+A mesma solução não deve ser aplicada automaticamente em todos os projetos.
+
+AVALIAÇÃO DO AMBIENTE
+
+Identificar:
+
+- tipo de ambiente;
+- finalidade de uso;
+- área aproximada;
+- altura do pé-direito;
+- materiais predominantes;
+- circulação de pessoas.
+
+CLASSIFICAÇÃO
+
+Residencial:
+
+- sala;
+- quarto;
+- cozinha;
+- escritório;
+- área gourmet;
+- garagem;
+- jardim.
+
+Comercial:
+
+- escritório;
+- loja;
+- recepção;
+- sala de reunião;
+- galpão;
+- showroom.
+
+ANÁLISE DE REDE
+
+Avaliar:
+
+- quantidade de dispositivos;
+- necessidade de cabeamento;
+- necessidade de Wi-Fi;
+- interferências;
+- áreas de sombra.
+
+ANÁLISE DE AUTOMAÇÃO
+
+Verificar:
+
+- iluminação;
+- persianas;
+- climatização;
+- cenas;
+- comandos por voz;
+- integração entre sistemas.
+
+ANÁLISE DE SEGURANÇA
+
+Considerar:
+
+- pontos vulneráveis;
+- acessos;
+- perímetro;
+- iluminação externa;
+- necessidade de monitoramento.
+
+ANÁLISE DE ÁUDIO E VÍDEO
+
+Avaliar:
+
+- tamanho do ambiente;
+- distância de visualização;
+- acústica;
+- posicionamento de equipamentos;
+- experiência desejada.
+
+ANÁLISE ELÉTRICA
+
+Verificar:
+
+- disponibilidade de circuitos;
+- capacidade do quadro;
+- aterramento;
+- proteção elétrica.
+
+PADRÃO PROELIUM
+
+Toda recomendação deve ser baseada na análise do ambiente e não apenas na preferência por equipamentos.
+
+REGRA DA N.E.M.O.
+
+Antes de recomendar qualquer solução, analisar:
+
+- uso do ambiente;
+- infraestrutura;
+- quantidade de usuários;
+- objetivo do cliente.
+
+RESULTADO ESPERADO
+
+Projetos mais precisos, eficientes e alinhados à realidade de cada cliente.

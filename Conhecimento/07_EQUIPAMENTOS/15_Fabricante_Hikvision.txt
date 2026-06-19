@@ -1,0 +1,88 @@
+FABRICANTE: HIKVISION
+BIBLIOTECA TÉCNICA PROELIUM
+
+
+IDENTIFICAÇÃO:
+
+Nome:
+
+Hikvision
+
+Área de atuação:
+
+Segurança eletrônica, monitoramento por vídeo e controle de acesso.
+
+
+POSICIONAMENTO:
+
+A Hikvision é um fabricante de soluções de segurança eletrônica utilizado em projetos residenciais, comerciais e corporativos, oferecendo equipamentos para monitoramento e proteção de ambientes.
+
+
+APLICAÇÕES:
+
+Utilização:
+
+- residências;
+- condomínios;
+- empresas;
+- ambientes comerciais;
+- projetos integrados.
+
+
+PRINCIPAIS SOLUÇÕES:
+
+- câmeras IP;
+- gravadores NVR;
+- controle de acesso;
+- vídeo porteiro;
+- equipamentos analíticos.
+
+
+PONTOS FORTES:
+
+- grande variedade de equipamentos;
+- soluções IP;
+- recursos inteligentes;
+- ampla aplicação no mercado.
+
+
+LIMITAÇÕES:
+
+Avaliar:
+
+- necessidade real do cliente;
+- complexidade do sistema;
+- integração necessária;
+- segurança da rede.
+
+
+COMPATIBILIDADE:
+
+Pode integrar:
+
+- redes IP;
+- switches PoE;
+- sistemas de automação;
+- plataformas de gerenciamento.
+
+
+PADRÃO PROELIUM:
+
+Classificação:
+
+Referência técnica para projetos de segurança eletrônica.
+
+
+REGRA DA N.E.M.O.:
+
+Câmeras e sistemas de segurança devem ser dimensionados conforme:
+
+- área de cobertura;
+- iluminação;
+- objetivo do monitoramento;
+- infraestrutura disponível.
+
+
+RESULTADO ESPERADO:
+
+Criar sistemas de segurança confiáveis, integrados e adequados ao ambiente do cliente.

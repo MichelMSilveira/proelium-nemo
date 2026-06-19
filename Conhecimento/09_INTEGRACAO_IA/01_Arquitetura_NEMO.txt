@@ -1,0 +1,100 @@
+ARQUITETURA DA N.E.M.O.
+
+NÚCLEO DE ENGENHARIA, MEMÓRIA E OPERAÇÃO
+
+OBJETIVO
+
+Definir a arquitetura geral da N.E.M.O. como assistente inteligente da Proelium Serviços.
+
+ESTRUTURA PRINCIPAL
+
+A N.E.M.O. será composta por:
+
+1. MODELO DE INTELIGÊNCIA
+
+Responsável pelo raciocínio e geração de respostas.
+
+Exemplo:
+
+- Ollama;
+- modelos locais de IA.
+
+2. BASE DE CONHECIMENTO
+
+Responsável pelas informações da Proelium.
+
+Inclui:
+
+- identidade;
+- processos;
+- projetos;
+- equipamentos;
+- fabricantes;
+- padrões técnicos.
+
+3. MEMÓRIA INTELIGENTE
+
+Responsável por localizar informações relevantes.
+
+Funções:
+
+- busca de documentos;
+- recuperação de conhecimento;
+- contexto de respostas.
+
+4. INTERFACE
+
+Formas de comunicação:
+
+- texto;
+- voz;
+- aplicativos;
+- integrações.
+
+5. AUTOMAÇÃO
+
+Camada responsável por comunicação com sistemas externos.
+
+Exemplos:
+
+- Home Assistant;
+- Scenario;
+- Control4;
+- ControlART.
+
+FLUXO DE FUNCIONAMENTO
+
+Usuário pergunta.
+
+↓
+
+N.E.M.O. interpreta.
+
+↓
+
+Consulta conhecimento.
+
+↓
+
+Analisa contexto.
+
+↓
+
+Gera resposta.
+
+↓
+
+Executa ação quando autorizado.
+
+PRINCÍPIOS
+
+A N.E.M.O. deve:
+
+- responder baseada no conhecimento da Proelium;
+- evitar respostas genéricas;
+- priorizar segurança;
+- manter padrão profissional.
+
+OBJETIVO FINAL
+
+Criar uma assistente técnica capaz de apoiar projetos, operações e automações da Proelium.

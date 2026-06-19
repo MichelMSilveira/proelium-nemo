@@ -1,0 +1,99 @@
+LEVANTAMENTO TÉCNICO PROELIUM
+
+OBJETIVO
+
+Coletar todas as informações necessárias para desenvolvimento
+de um projeto técnico completo.
+
+INFORMAÇÕES DO CLIENTE
+
+Registrar:
+
+- nome;
+- telefone;
+- e-mail;
+- endereço;
+- responsável pela obra.
+
+INFORMAÇÕES DO IMÓVEL
+
+Identificar:
+
+- residencial ou comercial;
+- área aproximada;
+- quantidade de pavimentos;
+- quantidade de ambientes;
+- estágio da obra.
+
+INFRAESTRUTURA EXISTENTE
+
+Verificar:
+
+- quadro elétrico;
+- aterramento;
+- tubulações;
+- cabeamento existente;
+- rack existente;
+- internet disponível.
+
+REDE DE DADOS
+
+Registrar:
+
+- operadora;
+- velocidade contratada;
+- quantidade de usuários;
+- equipamentos conectados;
+- cobertura Wi-Fi atual.
+
+AUTOMAÇÃO
+
+Identificar:
+
+- iluminação;
+- climatização;
+- persianas;
+- portões;
+- irrigação;
+- integração desejada.
+
+SEGURANÇA
+
+Verificar:
+
+- câmeras;
+- alarmes;
+- controle de acesso;
+- fechaduras;
+- monitoramento remoto.
+
+ÁUDIO E VÍDEO
+
+Registrar:
+
+- TVs;
+- projetores;
+- home theater;
+- áudio distribuído;
+- salas dedicadas.
+
+OBJETIVOS DO CLIENTE
+
+Documentar:
+
+- principais necessidades;
+- problemas atuais;
+- expectativas;
+- prioridades.
+
+PADRÃO PROELIUM
+
+Nenhum projeto deve iniciar sem levantamento técnico completo.
+
+REGRA DA N.E.M.O.
+
+Sempre solicitar informações ausentes antes de recomendar soluções.
+
+RESULTADO ESPERADO
+
+Base técnica confiável para elaboração de projeto, orçamento e execução.

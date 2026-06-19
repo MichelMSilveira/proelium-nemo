@@ -1,0 +1,96 @@
+AUDIO DISTRIBUÍDO
+PADRÃO PROELIUM
+
+
+OBJETIVO:
+
+Definir os princípios utilizados pela Proelium Serviços para criação de sistemas de áudio distribuído residencial e comercial.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Um sistema de áudio distribuído deve proporcionar qualidade sonora, facilidade de uso e integração com o ambiente.
+
+
+PLANEJAMENTO DO SISTEMA:
+
+Antes de definir uma solução avaliar:
+
+- quantidade de ambientes;
+- finalidade de cada área;
+- perfil dos usuários;
+- nível de qualidade esperado;
+- infraestrutura disponível.
+
+
+AMBIENTES DE APLICAÇÃO:
+
+Pode ser utilizado em:
+
+- salas;
+- cozinhas;
+- áreas gourmet;
+- piscinas;
+- jardins;
+- escritórios;
+- ambientes comerciais.
+
+
+ELEMENTOS DO SISTEMA:
+
+Uma solução pode envolver:
+
+- caixas acústicas;
+- amplificadores;
+- controladores;
+- fontes de áudio;
+- cabeamento;
+- equipamentos de gerenciamento.
+
+
+QUALIDADE SONORA:
+
+Avaliar:
+
+- posicionamento das caixas;
+- cobertura sonora;
+- acústica do ambiente;
+- potência adequada;
+- equilíbrio entre ambientes.
+
+
+INFRAESTRUTURA:
+
+Considerar:
+
+- passagem de cabos;
+- organização técnica;
+- rede de dados quando aplicável;
+- alimentação elétrica;
+- acesso para manutenção.
+
+
+INTEGRAÇÃO:
+
+O áudio distribuído pode integrar com:
+
+- automação residencial;
+- controle por aplicativo;
+- controle por voz;
+- cenas;
+- sistemas de vídeo.
+
+
+ERROS A EVITAR:
+
+A Proelium não deve:
+
+- escolher caixas apenas pela potência;
+- ignorar características do ambiente;
+- instalar sem planejamento de cabeamento;
+- criar sistemas difíceis de utilizar.
+
+
+RESULTADO ESPERADO:
+
+Criar soluções de áudio distribuído com qualidade, confiabilidade e integração ao estilo de vida do cliente.

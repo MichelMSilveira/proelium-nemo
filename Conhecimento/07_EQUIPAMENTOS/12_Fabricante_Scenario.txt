@@ -1,0 +1,89 @@
+FABRICANTE: SCENARIO
+BIBLIOTECA TÉCNICA PROELIUM
+
+
+IDENTIFICAÇÃO:
+
+Nome:
+
+Scenario
+
+Área de atuação:
+
+Automação residencial, controle de ambientes e integração de sistemas.
+
+
+POSICIONAMENTO:
+
+A Scenario é uma plataforma voltada para automação residencial, permitindo controle integrado de iluminação, climatização, cortinas, áudio e outros sistemas tecnológicos.
+
+
+APLICAÇÕES:
+
+Utilização:
+
+- residências;
+- apartamentos;
+- casas de alto padrão;
+- projetos personalizados.
+
+
+PRINCIPAIS SOLUÇÕES:
+
+- controladores de automação;
+- módulos de acionamento;
+- interfaces de controle;
+- integração de sistemas;
+- gerenciamento de ambientes.
+
+
+PONTOS FORTES:
+
+- foco em automação residencial;
+- integração de diversos sistemas;
+- personalização de cenários;
+- experiência do usuário.
+
+
+LIMITAÇÕES:
+
+Avaliar:
+
+- complexidade do projeto;
+- quantidade de dispositivos;
+- necessidade de integrações específicas.
+
+
+COMPATIBILIDADE:
+
+Avaliar integração com:
+
+- redes IP;
+- sistemas de áudio e vídeo;
+- climatização;
+- controle por aplicativos;
+- comandos de voz.
+
+
+PADRÃO PROELIUM:
+
+Classificação:
+
+Referência técnica para projetos de automação residencial.
+
+
+REGRA DA N.E.M.O.:
+
+A Scenario deve ser analisada conforme a arquitetura do projeto.
+
+A automação deve ser planejada considerando:
+
+- rotina do usuário;
+- ambientes;
+- infraestrutura;
+- possibilidade de expansão.
+
+
+RESULTADO ESPERADO:
+
+Criar automações residenciais inteligentes, confiáveis e alinhadas ao padrão de conforto e tecnologia da Proelium Serviços.

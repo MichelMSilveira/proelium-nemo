@@ -1,0 +1,79 @@
+SEGURANÇA DE REDE PROFISSIONAL
+PADRÃO PROELIUM
+
+
+OBJETIVO:
+
+Definir os princípios utilizados pela Proelium Serviços para criação de redes seguras em projetos residenciais e comerciais.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Uma infraestrutura tecnológica profissional deve considerar segurança desde o planejamento inicial.
+
+A rede deve proteger dados, equipamentos e sistemas integrados.
+
+
+SEGURANÇA EM PROJETOS:
+
+Avaliar:
+
+- quantidade de dispositivos conectados;
+- tipo de equipamento;
+- necessidade de acesso externo;
+- importância dos sistemas instalados.
+
+
+DISPOSITIVOS IOT:
+
+Dispositivos inteligentes devem ser analisados considerando:
+
+- origem do equipamento;
+- atualização de software;
+- segurança de comunicação;
+- necessidade de isolamento.
+
+
+SEGMENTAÇÃO DE REDE:
+
+Quando aplicável, utilizar organização lógica da rede considerando:
+
+- dispositivos principais;
+- automação;
+- câmeras;
+- visitantes;
+- equipamentos IoT.
+
+
+ACESSO REMOTO:
+
+O acesso remoto deve considerar:
+
+- segurança;
+- autenticação;
+- controle de usuários;
+- responsabilidade técnica.
+
+
+CÂMERAS E SEGURANÇA:
+
+Sistemas de monitoramento devem considerar:
+
+- proteção contra acessos indevidos;
+- armazenamento adequado;
+- configuração correta de usuários.
+
+
+ERROS A EVITAR:
+
+A Proelium não deve:
+
+- instalar equipamentos sem considerar segurança;
+- utilizar senhas padrão;
+- liberar acessos sem controle;
+- ignorar atualizações.
+
+
+RESULTADO ESPERADO:
+
+Criar uma infraestrutura confiável, protegida e preparada para integração tecnológica de alto padrão.

@@ -1,0 +1,125 @@
+INTEGRAÇÃO DA N.E.M.O. COM AUTOMAÇÃO
+
+OBJETIVO
+
+Definir como a N.E.M.O. poderá se comunicar com sistemas de automação residencial e comercial.
+
+CONCEITO
+
+A N.E.M.O. não substitui o sistema de automação.
+
+Ela atua como camada inteligente de interpretação, análise e comando.
+
+ARQUITETURA
+
+Usuário:
+
+"Quero preparar a casa para assistir um filme."
+
+↓
+
+N.E.M.O. interpreta intenção.
+
+↓
+
+Consulta regras e contexto.
+
+↓
+
+Envia comandos para automação.
+
+↓
+
+Sistema executa ações.
+
+EXEMPLO:
+
+Cena Cinema:
+
+- fechar persianas;
+- reduzir iluminação;
+- ligar projetor;
+- ligar receiver;
+- ajustar temperatura.
+
+SISTEMAS COMPATÍVEIS
+
+Possíveis integrações:
+
+- Scenario;
+- Control4;
+- ControlART;
+- Home Assistant;
+- APIs proprietárias.
+
+FORMAS DE COMUNICAÇÃO
+
+A integração pode ocorrer através de:
+
+- API;
+- HTTP;
+- MQTT;
+- Webhooks;
+- protocolos específicos;
+- integrações oficiais.
+
+FUNÇÃO DA N.E.M.O.
+
+A N.E.M.O. poderá:
+
+- interpretar comandos naturais;
+- consultar status dos sistemas;
+- sugerir ações;
+- criar relatórios;
+- auxiliar técnicos.
+
+CONTROLE INTELIGENTE
+
+Exemplo:
+
+Usuário:
+
+"A sala está muito quente."
+
+N.E.M.O.:
+
+Analisa:
+
+- temperatura;
+- ar-condicionado;
+- horário;
+- presença.
+
+Executa ou sugere:
+
+- ajustar climatização.
+
+SEGURANÇA
+
+Ações críticas devem possuir:
+
+- confirmação;
+- controle de permissão;
+- registro de comandos.
+
+Exemplos:
+
+- abrir portas;
+- desligar segurança;
+- alterar acessos.
+
+PADRÃO PROELIUM
+
+A inteligência deve estar acima da automação.
+
+A automação executa.
+
+A N.E.M.O. entende e coordena.
+
+OBJETIVO FINAL
+
+Criar uma interface inteligente onde o cliente conversa naturalmente com sua casa ou empresa.
+
+RESULTADO ESPERADO
+
+Integração entre inteligência artificial, automação e experiência do usuário.

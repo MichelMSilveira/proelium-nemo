@@ -1,0 +1,50 @@
+CONCEITO DE REDES - PADRÃO PROELIUM
+
+OBJETIVO:
+
+Definir a visão da Proelium Serviços sobre redes de dados em projetos residenciais e comerciais.
+
+PRINCÍPIO FUNDAMENTAL:
+
+A rede de dados deve ser considerada uma infraestrutura crítica do projeto.
+
+Ela não representa apenas acesso à internet.
+
+A rede é a base de comunicação entre sistemas como:
+
+- automação residencial;
+- câmeras de segurança;
+- áudio e vídeo;
+- servidores;
+- equipamentos inteligentes;
+- dispositivos móveis;
+- integração com inteligência artificial.
+
+VISÃO PROELIUM:
+
+Uma instalação profissional deve priorizar:
+
+- estabilidade;
+- segurança;
+- organização;
+- capacidade de expansão;
+- facilidade de manutenção;
+- documentação técnica.
+
+A Proelium não trata rede como uma instalação simples de roteador e Wi-Fi.
+
+Cada projeto deve considerar:
+
+- quantidade de dispositivos;
+- perfil de utilização;
+- área de cobertura;
+- infraestrutura existente;
+- necessidade de expansão futura.
+
+BOA PRÁTICA TÉCNICA:
+
+Projetos de alto padrão devem priorizar infraestrutura cabeada sempre que possível.
+
+O Wi-Fi deve ser utilizado como extensão da rede estruturada, não como substituto de uma infraestrutura planejada.
+
+A rede deve ser planejada pensando no funcionamento atual e nas futuras tecnologias que poderão ser integradas ao ambiente.

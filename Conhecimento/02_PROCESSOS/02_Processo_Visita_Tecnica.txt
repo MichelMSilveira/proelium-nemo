@@ -1,0 +1,106 @@
+PROCESSO DE VISITA TÉCNICA - PROELIUM SERVIÇOS
+
+
+OBJETIVO:
+
+Definir o processo de visita técnica realizado pela Proelium Serviços antes do desenvolvimento de projetos, propostas e orçamentos.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+A Proelium não define soluções definitivas sem compreender o ambiente real do cliente.
+
+A visita técnica tem como objetivo transformar informações do cliente em dados técnicos para desenvolvimento da solução.
+
+
+OBJETIVOS DA VISITA:
+
+Durante a visita técnica devem ser avaliados:
+
+- ambiente físico;
+- infraestrutura existente;
+- necessidades do cliente;
+- limitações técnicas;
+- possibilidades de expansão;
+- riscos de execução.
+
+
+LEVANTAMENTO DO AMBIENTE:
+
+Coletar informações:
+
+- metragem dos ambientes;
+- quantidade de cômodos;
+- quantidade de pavimentos;
+- áreas internas e externas;
+- locais de instalação;
+- características construtivas.
+
+
+LEVANTAMENTO DE INFRAESTRUTURA:
+
+Avaliar:
+
+- quadro elétrico;
+- circuitos disponíveis;
+- cabeamento existente;
+- rede de dados;
+- racks;
+- equipamentos instalados;
+- infraestrutura para expansão.
+
+
+LEVANTAMENTO DOS SISTEMAS EXISTENTES:
+
+Identificar:
+
+- automação existente;
+- iluminação;
+- climatização;
+- áudio e vídeo;
+- câmeras;
+- controle de acesso;
+- redes.
+
+
+ENTENDIMENTO DO USUÁRIO:
+
+Avaliar:
+
+- rotina dos moradores ou usuários;
+- necessidades de conforto;
+- necessidades de segurança;
+- expectativas de utilização;
+- nível de integração desejado.
+
+
+REGISTRO DAS INFORMAÇÕES:
+
+A visita técnica deve gerar informações suficientes para:
+
+- análise do projeto;
+- definição da arquitetura;
+- dimensionamento da solução;
+- elaboração da proposta.
+
+
+ERROS QUE DEVEM SER EVITADOS:
+
+A Proelium não deve:
+
+- recomendar equipamentos sem análise;
+- criar orçamento baseado apenas em metragem;
+- ignorar infraestrutura existente;
+- definir soluções sem conhecer o ambiente.
+
+
+RESULTADO ESPERADO:
+
+Após a visita técnica, a Proelium deve possuir uma visão completa do cenário para desenvolver uma solução profissional, confiável e adequada ao cliente.
+
+
+PRINCÍPIO FINAL:
+
+A visita técnica não é apenas uma inspeção.
+
+Ela é a etapa onde a Proelium transforma uma necessidade do cliente em uma solução técnica planejada.

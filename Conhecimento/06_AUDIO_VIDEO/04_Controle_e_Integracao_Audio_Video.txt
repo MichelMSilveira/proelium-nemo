@@ -1,0 +1,80 @@
+CONTROLE E INTEGRAÇÃO DE ÁUDIO E VÍDEO
+PADRÃO PROELIUM
+
+
+OBJETIVO:
+
+Definir os princípios utilizados pela Proelium Serviços para integração e controle de sistemas de áudio e vídeo.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Um sistema audiovisual profissional deve permitir uma operação simples, intuitiva e integrada com os demais sistemas do ambiente.
+
+
+CONTROLE DO USUÁRIO:
+
+As soluções podem utilizar:
+
+- controles dedicados;
+- aplicativos;
+- painéis de automação;
+- comandos de voz;
+- interfaces personalizadas.
+
+
+INTEGRAÇÃO COM AUTOMAÇÃO:
+
+Sistemas de áudio e vídeo podem participar de cenas e rotinas como:
+
+- assistir filme;
+- receber visitas;
+- ambiente relaxante;
+- eventos;
+- desligamento geral.
+
+
+EXEMPLOS DE INTEGRAÇÃO:
+
+Uma cena pode envolver:
+
+- fechamento de cortinas;
+- ajuste de iluminação;
+- acionamento do sistema de áudio;
+- configuração do equipamento de vídeo;
+- controle de climatização.
+
+
+PLANEJAMENTO TÉCNICO:
+
+Antes da integração avaliar:
+
+- compatibilidade entre equipamentos;
+- protocolos utilizados;
+- infraestrutura de rede;
+- disponibilidade de comunicação;
+- necessidade do cliente.
+
+
+EXPERIÊNCIA DO USUÁRIO:
+
+A tecnologia deve reduzir complexidade.
+
+O cliente não deve precisar operar diversos equipamentos individualmente.
+
+A integração deve transformar vários sistemas em uma experiência única.
+
+
+ERROS A EVITAR:
+
+A Proelium não deve:
+
+- instalar equipamentos sem avaliar integração;
+- criar sistemas complexos para o usuário;
+- ignorar infraestrutura de rede;
+- depender de soluções sem suporte futuro.
+
+
+RESULTADO ESPERADO:
+
+Criar ambientes audiovisuais inteligentes, fáceis de utilizar e preparados para integração com automação residencial ou comercial.

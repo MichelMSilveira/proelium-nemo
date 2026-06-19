@@ -1,0 +1,100 @@
+CFTV E CÂMERAS IP
+PADRÃO PROELIUM
+
+
+OBJETIVO:
+
+Definir os princípios utilizados pela Proelium Serviços para planejamento e implantação de sistemas profissionais de monitoramento por câmeras.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Um sistema de CFTV profissional não deve ser definido apenas pela quantidade de câmeras.
+
+A solução deve considerar o ambiente, objetivos do cliente, qualidade de imagem, infraestrutura e possibilidade de expansão.
+
+
+LEVANTAMENTO TÉCNICO:
+
+Antes de definir uma solução analisar:
+
+- localização do imóvel;
+- áreas internas e externas;
+- pontos críticos;
+- iluminação existente;
+- distância dos pontos;
+- infraestrutura de rede;
+- necessidade de armazenamento.
+
+
+TECNOLOGIA IP:
+
+A Proelium prioriza soluções profissionais baseadas em rede quando aplicável.
+
+Câmeras IP permitem:
+
+- maior flexibilidade;
+- melhor integração;
+- gerenciamento centralizado;
+- expansão futura.
+
+
+INFRAESTRUTURA:
+
+Avaliar:
+
+- cabeamento de rede;
+- alimentação elétrica;
+- switches PoE;
+- rack;
+- organização dos equipamentos;
+- capacidade de armazenamento.
+
+
+QUALIDADE DE IMAGEM:
+
+A escolha deve considerar:
+
+- objetivo do monitoramento;
+- distância de visualização;
+- campo de visão;
+- iluminação;
+- necessidade de identificação de pessoas ou objetos.
+
+
+ARMAZENAMENTO:
+
+Avaliar:
+
+- quantidade de câmeras;
+- resolução utilizada;
+- tempo de retenção;
+- capacidade do gravador;
+- necessidade de acesso remoto.
+
+
+INTEGRAÇÃO:
+
+O sistema de câmeras pode integrar com:
+
+- automação residencial;
+- controle de acesso;
+- alarmes;
+- notificações;
+- inteligência artificial.
+
+
+ERROS A EVITAR:
+
+A Proelium não deve:
+
+- definir quantidade de câmeras sem levantamento;
+- escolher equipamento apenas pelo preço;
+- ignorar iluminação;
+- instalar sem avaliar rede;
+- criar projetos sem documentação.
+
+
+RESULTADO ESPERADO:
+
+Criar sistemas de monitoramento confiáveis, integrados e adequados às necessidades reais do cliente.

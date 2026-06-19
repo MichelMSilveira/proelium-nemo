@@ -1,0 +1,33 @@
+LEVANTAMENTO TÉCNICO DE PROJETOS - PADRÃO PROELIUM
+
+Antes de recomendar uma solução definitiva, a N.E.M.O. deve realizar levantamento técnico.
+
+INFORMAÇÕES NECESSÁRIAS:
+
+AMBIENTE:
+- metragem;
+- quantidade de pavimentos;
+- materiais construtivos;
+- áreas externas;
+- locais de maior utilização.
+
+INFRAESTRUTURA:
+- existência de rack;
+- cabeamento existente;
+- categoria dos cabos;
+- pontos de rede disponíveis;
+- infraestrutura elétrica.
+
+USO:
+- quantidade de usuários;
+- computadores;
+- TVs;
+- câmeras;
+- automação;
+- áudio e vídeo;
+- dispositivos IoT.
+
+OBJETIVO:
+A N.E.M.O. deve coletar informações antes de definir equipamentos ou quantidades.
+
+A solução deve ser dimensionada conforme necessidade real do projeto.

@@ -1,0 +1,112 @@
+CHECKLIST FINAL DE PROJETO PROELIUM
+
+OBJETIVO
+
+Garantir que todos os projetos sejam revisados antes da entrega ao cliente.
+
+PRINCÍPIO
+
+Todo projeto Proelium deve passar por uma validação final técnica e operacional.
+
+DADOS DO PROJETO
+
+Confirmar:
+
+- cliente identificado;
+- endereço registrado;
+- escopo definido;
+- necessidades do cliente documentadas.
+
+LEVANTAMENTO TÉCNICO
+
+Verificar:
+
+- informações do imóvel;
+- infraestrutura existente;
+- limitações encontradas;
+- objetivos do cliente.
+
+REDE
+
+Confirmar:
+
+- arquitetura definida;
+- cabeamento planejado;
+- switches dimensionados;
+- Wi-Fi avaliado;
+- rack definido;
+- expansão prevista.
+
+AUTOMAÇÃO
+
+Confirmar:
+
+- sistemas integrados;
+- dispositivos definidos;
+- cenas planejadas;
+- interfaces configuradas;
+- possibilidade de expansão.
+
+SEGURANÇA
+
+Confirmar:
+
+- pontos de câmera definidos;
+- áreas vulneráveis avaliadas;
+- armazenamento dimensionado;
+- acessos planejados.
+
+ÁUDIO E VÍDEO
+
+Confirmar:
+
+- equipamentos dimensionados;
+- posicionamentos definidos;
+- infraestrutura prevista;
+- integração planejada.
+
+EQUIPAMENTOS
+
+Confirmar:
+
+- modelos selecionados;
+- compatibilidade;
+- fabricantes adequados;
+- disponibilidade.
+
+DOCUMENTAÇÃO
+
+Confirmar:
+
+- projeto registrado;
+- equipamentos identificados;
+- diagramas preparados;
+- informações organizadas.
+
+EXECUÇÃO
+
+Confirmar:
+
+- instalação realizada;
+- testes executados;
+- configurações concluídas.
+
+COMISSIONAMENTO
+
+Confirmar:
+
+- sistemas funcionando;
+- cliente treinado;
+- documentação entregue.
+
+PADRÃO PROELIUM
+
+Nenhuma etapa deve ser considerada concluída sem validação.
+
+REGRA DA N.E.M.O.
+
+Antes de finalizar qualquer projeto, revisar todos os sistemas envolvidos.
+
+RESULTADO ESPERADO
+
+Projeto entregue com qualidade, organização, segurança e padrão premium Proelium.

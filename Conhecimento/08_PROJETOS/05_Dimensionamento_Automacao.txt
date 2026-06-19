@@ -1,0 +1,131 @@
+DIMENSIONAMENTO DE AUTOMAÇÃO PROELIUM
+
+OBJETIVO
+
+Definir corretamente a arquitetura de automação para cada projeto.
+
+PRINCÍPIOS
+
+A automação deve:
+
+- simplificar a operação;
+- aumentar o conforto;
+- melhorar a eficiência;
+- integrar sistemas;
+- manter alta confiabilidade.
+
+LEVANTAMENTO INICIAL
+
+Identificar:
+
+- perfil do cliente;
+- quantidade de ambientes;
+- padrão do imóvel;
+- infraestrutura disponível;
+- expectativa de automação.
+
+ÁREAS DE AUTOMAÇÃO
+
+Iluminação.
+
+Persianas.
+
+Cortinas.
+
+Ar-condicionado.
+
+Áudio.
+
+Vídeo.
+
+Segurança.
+
+Irrigação.
+
+Piscina.
+
+Energia.
+
+Controle de acesso.
+
+ASSISTENTES DE VOZ
+
+Avaliar integração com:
+
+- Alexa;
+- Google Assistant;
+- outros sistemas compatíveis.
+
+INTERFACES DE CONTROLE
+
+Considerar:
+
+- aplicativo;
+- teclados inteligentes;
+- touch panels;
+- comandos por voz;
+- automações automáticas.
+
+CENAS
+
+Exemplos:
+
+- Chegada.
+- Saída.
+- Dormir.
+- Cinema.
+- Jantar.
+- Trabalho.
+- Férias.
+
+AUTOMAÇÕES CONDICIONAIS
+
+Baseadas em:
+
+- horário;
+- presença;
+- sensores;
+- temperatura;
+- luminosidade;
+- eventos do sistema.
+
+ARQUITETURA
+
+Avaliar:
+
+- sistema centralizado;
+- sistema distribuído;
+- sistema híbrido.
+
+INTEGRAÇÃO
+
+Priorizar integração entre:
+
+- automação;
+- segurança;
+- áudio e vídeo;
+- rede;
+- energia.
+
+ESCALABILIDADE
+
+Todo projeto deve permitir futuras expansões.
+
+PADRÃO PROELIUM
+
+Automação não é quantidade de funções.
+
+Automação é experiência do usuário.
+
+REGRA DA N.E.M.O.
+
+Antes de recomendar equipamentos, entender:
+
+- rotina do cliente;
+- hábitos;
+- prioridades;
+- nível desejado de automação.
+
+RESULTADO ESPERADO
+
+Sistema intuitivo, estável e alinhado ao estilo de vida do cliente.

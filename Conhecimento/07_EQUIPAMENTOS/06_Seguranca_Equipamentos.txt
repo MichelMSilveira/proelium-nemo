@@ -1,0 +1,125 @@
+EQUIPAMENTOS DE SEGURANÇA
+BIBLIOTECA TÉCNICA PROELIUM
+
+
+OBJETIVO:
+
+Definir os critérios técnicos para análise de equipamentos de segurança utilizados como referência pela Proelium Serviços.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Equipamentos de segurança devem ser selecionados considerando confiabilidade, qualidade de imagem, estabilidade, integração e facilidade de manutenção.
+
+
+APLICAÇÕES:
+
+Sistemas de segurança podem atender:
+
+- residências de alto padrão;
+- condomínios;
+- empresas;
+- ambientes comerciais;
+- áreas críticas.
+
+
+TIPOS DE EQUIPAMENTOS:
+
+
+CÂMERAS IP:
+
+Avaliar:
+
+- resolução;
+- lente;
+- campo de visão;
+- ambiente de instalação;
+- iluminação;
+- tecnologia utilizada;
+- integração com rede.
+
+
+GRAVADORES DE VÍDEO:
+
+Avaliar:
+
+- quantidade de canais;
+- capacidade de armazenamento;
+- compatibilidade com câmeras;
+- gerenciamento;
+- acesso remoto.
+
+
+CONTROLE DE ACESSO:
+
+Avaliar:
+
+- método de identificação;
+- quantidade de usuários;
+- integração;
+- segurança;
+- possibilidade de expansão.
+
+
+SENSORES E ALARMES:
+
+Avaliar:
+
+- tipo de detecção;
+- ambiente;
+- confiabilidade;
+- comunicação;
+- integração.
+
+
+REQUISITOS DE INFRAESTRUTURA:
+
+Considerar:
+
+- cabeamento;
+- rede;
+- alimentação elétrica;
+- proteção;
+- organização.
+
+
+INTEGRAÇÃO:
+
+Equipamentos podem integrar:
+
+- automação residencial;
+- controle por aplicativo;
+- notificações;
+- gerenciamento centralizado.
+
+
+CRITÉRIOS DE ESCOLHA:
+
+Antes da utilização analisar:
+
+- objetivo do cliente;
+- risco do ambiente;
+- quantidade de pontos;
+- infraestrutura disponível;
+- necessidade futura.
+
+
+REGRA DA N.E.M.O.:
+
+Equipamentos cadastrados são referências técnicas.
+
+A escolha final depende do levantamento técnico do projeto.
+
+
+A N.E.M.O. nunca deve definir:
+
+- câmera obrigatória;
+- quantidade fixa;
+- modelo definitivo;
+
+sem análise do ambiente.
+
+
+RESULTADO ESPERADO:
+
+Criar sistemas de segurança profissionais, confiáveis e integrados ao ecossistema tecnológico da Proelium Serviços.

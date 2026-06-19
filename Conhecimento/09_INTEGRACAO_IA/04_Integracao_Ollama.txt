@@ -1,0 +1,91 @@
+INTEGRAÇÃO OLLAMA COM A N.E.M.O.
+
+OBJETIVO
+
+Definir o uso do Ollama como motor de inteligência local da N.E.M.O.
+
+CONCEITO
+
+O Ollama permite executar modelos de inteligência artificial localmente, mantendo maior controle sobre dados e informações da Proelium.
+
+FUNÇÃO NA ARQUITETURA
+
+O Ollama será responsável por:
+
+- interpretar perguntas;
+- analisar informações recebidas;
+- gerar respostas;
+- auxiliar em decisões técnicas.
+
+FLUXO DE FUNCIONAMENTO
+
+Usuário envia uma pergunta.
+
+↓
+
+N.E.M.O. recebe a solicitação.
+
+↓
+
+Consulta a base de conhecimento.
+
+↓
+
+Envia contexto para o Ollama.
+
+↓
+
+Ollama processa as informações.
+
+↓
+
+N.E.M.O. retorna a resposta.
+
+MODELO LOCAL
+
+Vantagens:
+
+- funcionamento local;
+- maior privacidade;
+- controle dos dados;
+- possibilidade de personalização.
+
+INTEGRAÇÃO COM PYTHON
+
+O Python será responsável por:
+
+- comunicação com Ollama;
+- gerenciamento de documentos;
+- controle da memória;
+- criação de ferramentas.
+
+ESTRUTURA ATUAL
+
+Componentes:
+
+- Ollama instalado;
+- ambiente Python;
+- venv configurado;
+- documentos da Proelium carregados.
+
+PRÓXIMAS EVOLUÇÕES
+
+Implementar:
+
+- consulta automática aos documentos;
+- memória vetorial;
+- RAG;
+- interface de conversa;
+- comandos por voz.
+
+PADRÃO N.E.M.O.
+
+O Ollama é o cérebro de processamento.
+
+A base de conhecimento é a experiência da Proelium.
+
+A integração dos dois cria inteligência especializada.
+
+OBJETIVO FINAL
+
+Construir uma assistente privada, técnica e personalizada para a Proelium Serviços.

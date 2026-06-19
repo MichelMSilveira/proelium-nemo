@@ -1,0 +1,90 @@
+FABRICANTE: EPSON
+BIBLIOTECA TÉCNICA PROELIUM
+
+
+IDENTIFICAÇÃO:
+
+Nome:
+
+Epson
+
+Área de atuação:
+
+Projetores, soluções de imagem e equipamentos profissionais de projeção.
+
+
+POSICIONAMENTO:
+
+A Epson é uma das principais fabricantes de projetores do mercado, oferecendo soluções para cinema residencial, apresentações profissionais e ambientes comerciais.
+
+
+APLICAÇÕES:
+
+Utilização:
+
+- cinema residencial;
+- salas de reunião;
+- ambientes corporativos;
+- auditórios;
+- projetos audiovisuais.
+
+
+PRINCIPAIS SOLUÇÕES:
+
+- projetores Full HD;
+- projetores 4K;
+- projetores laser;
+- equipamentos profissionais de projeção.
+
+
+PONTOS FORTES:
+
+- qualidade de imagem;
+- tecnologia de projeção;
+- confiabilidade;
+- variedade de modelos;
+- soluções para diferentes ambientes.
+
+
+LIMITAÇÕES:
+
+Avaliar:
+
+- tamanho da tela;
+- distância de projeção;
+- iluminação do ambiente;
+- necessidade de contraste;
+- tratamento da sala.
+
+
+COMPATIBILIDADE:
+
+Pode integrar com:
+
+- automação residencial;
+- sistemas de cinema;
+- receivers;
+- telas motorizadas;
+- controle IP.
+
+
+PADRÃO PROELIUM:
+
+Classificação:
+
+Referência para projetos de cinema residencial e soluções profissionais de projeção.
+
+
+REGRA DA N.E.M.O.:
+
+Projetores devem ser especificados considerando:
+
+- ambiente;
+- distância de instalação;
+- tamanho da imagem;
+- experiência desejada pelo cliente.
+
+
+RESULTADO ESPERADO:
+
+Entregar experiências de cinema e apresentação com qualidade visual, integração e confiabilidade.

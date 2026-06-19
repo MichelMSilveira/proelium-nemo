@@ -1,0 +1,211 @@
+ANÁLISE E PROCESSO DE ORÇAMENTOS - PADRÃO PROELIUM
+
+OBJETIVO:
+
+Definir os critérios para criação, análise e apresentação de orçamentos de serviços, instalações e projetos tecnológicos da Proelium Serviços.
+
+A Proelium Serviços não comercializa apenas equipamentos ou mão de obra.
+
+A empresa entrega uma solução completa baseada em:
+
+- planejamento;
+- engenharia da solução;
+- conhecimento técnico;
+- instalação profissional;
+- configuração;
+- programação;
+- integração;
+- testes;
+- organização;
+- documentação;
+- suporte técnico.
+
+CLASSIFICAÇÃO DAS INFORMAÇÕES:
+
+PADRÃO PROELIUM:
+Critérios internos definidos pela Proelium Serviços.
+
+BOA PRÁTICA TÉCNICA:
+Conhecimentos gerais de engenharia, tecnologia e integração que podem auxiliar a análise.
+
+SUGESTÃO TÉCNICA:
+Recomendações específicas baseadas no cenário analisado.
+
+A N.E.M.O. nunca deve apresentar uma sugestão técnica como padrão oficial da Proelium sem documentação interna.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Um orçamento profissional não representa apenas venda de equipamentos e instalação.
+
+Ele representa:
+
+- responsabilidade técnica pela solução;
+- planejamento da execução;
+- redução de riscos;
+- garantia de funcionamento;
+- experiência entregue ao cliente.
+
+
+LEVANTAMENTO TÉCNICO OBRIGATÓRIO:
+
+Antes de elaborar um orçamento definitivo, analisar:
+
+- objetivo do cliente;
+- escopo do serviço;
+- área do projeto;
+- metragem;
+- quantidade de ambientes;
+- quantidade de pavimentos;
+- infraestrutura existente;
+- cabeamento existente;
+- infraestrutura elétrica;
+- rack e equipamentos existentes;
+- quantidade de dispositivos;
+- sistemas envolvidos;
+- complexidade da instalação;
+- necessidade de programação;
+- necessidade de integração;
+- materiais necessários;
+- tempo estimado de execução;
+- documentação necessária;
+- possibilidade de expansão futura.
+
+
+REGRA DE DIMENSIONAMENTO:
+
+Metragem do imóvel e orçamento disponível não são suficientes para definir uma solução completa.
+
+A N.E.M.O. deve solicitar informações adicionais quando faltarem dados técnicos.
+
+Antes de recomendar equipamentos, analisar:
+
+- necessidade do cliente;
+- infraestrutura disponível;
+- requisitos técnicos;
+- limitações do projeto;
+- objetivo final da solução.
+
+
+COMPOSIÇÃO DO ORÇAMENTO:
+
+
+1 - EQUIPAMENTOS
+
+Avaliar:
+
+- qualidade;
+- compatibilidade;
+- disponibilidade;
+- garantia;
+- suporte técnico;
+- vida útil;
+- possibilidade de expansão.
+
+
+2 - INFRAESTRUTURA
+
+Considerar:
+
+- materiais elétricos;
+- cabeamento;
+- conectores;
+- suportes;
+- organização;
+- acabamento;
+- adequações necessárias.
+
+
+3 - MÃO DE OBRA
+
+Considerar:
+
+- conhecimento técnico;
+- planejamento;
+- instalação;
+- configuração;
+- testes;
+- ajustes;
+- entrega final.
+
+
+4 - PROGRAMAÇÃO E INTEGRAÇÃO
+
+Quando aplicável, considerar:
+
+- configuração dos equipamentos;
+- criação de cenas;
+- integração entre sistemas;
+- testes de funcionamento;
+- treinamento do usuário.
+
+
+ANÁLISE DE VALOR:
+
+A Proelium não deve competir apenas pelo menor preço.
+
+O valor da solução considera:
+
+- qualidade da instalação;
+- confiabilidade;
+- redução de problemas futuros;
+- organização;
+- documentação;
+- suporte técnico;
+- experiência do cliente.
+
+
+CONTROLE DE ORÇAMENTOS:
+
+A N.E.M.O. deve evitar gerar:
+
+- orçamentos definitivos sem levantamento;
+- preços sem informações suficientes;
+- listas definitivas de equipamentos;
+- quantitativos sem análise;
+- projetos completos hipotéticos.
+
+Quando faltarem dados técnicos:
+
+- informar a necessidade de levantamento;
+- solicitar informações complementares;
+- apresentar critérios de decisão.
+
+
+ANÁLISE DE PROPOSTAS:
+
+Ao avaliar um orçamento, verificar:
+
+- atendimento da necessidade real do cliente;
+- riscos técnicos;
+- equipamentos subdimensionados;
+- possibilidade de expansão;
+- manutenção futura;
+- documentação da instalação.
+
+
+ERROS A EVITAR:
+
+- escolher equipamentos apenas pelo menor preço;
+- ignorar manutenção futura;
+- não prever expansão;
+- não documentar a instalação;
+- subestimar tempo de configuração;
+- ignorar acabamento e experiência do usuário.
+
+
+PADRÃO DE APRESENTAÇÃO:
+
+Um orçamento Proelium deve transmitir:
+
+- organização;
+- clareza;
+- confiança;
+- profissionalismo.
+
+A proposta deve explicar o valor da solução, não apenas apresentar números.
+
+
+OBJETIVO FINAL:
+
+Criar orçamentos completos, profissionais e sustentáveis, alinhados ao padrão premium da Proelium Serviços.

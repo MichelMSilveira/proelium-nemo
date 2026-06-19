@@ -1,0 +1,118 @@
+MEMÓRIA INTELIGENTE DA N.E.M.O.
+
+OBJETIVO
+
+Criar uma camada de memória capaz de armazenar, organizar e recuperar informações da Proelium Serviços.
+
+CONCEITO
+
+A memória da N.E.M.O. não deve funcionar apenas como armazenamento de arquivos.
+
+Ela deve permitir:
+
+- localizar informações;
+- entender contexto;
+- relacionar conhecimentos;
+- responder com base nos padrões da empresa.
+
+TIPOS DE MEMÓRIA
+
+MEMÓRIA DE CONHECIMENTO
+
+Contém informações permanentes:
+
+- identidade Proelium;
+- serviços;
+- processos;
+- projetos;
+- equipamentos;
+- fabricantes;
+- regras técnicas.
+
+MEMÓRIA OPERACIONAL
+
+Contém informações de trabalho:
+
+- projetos atuais;
+- levantamentos;
+- orçamentos;
+- tarefas;
+- análises.
+
+MEMÓRIA DE EXPERIÊNCIA
+
+Registra aprendizados:
+
+- soluções aplicadas;
+- problemas encontrados;
+- decisões técnicas;
+- melhorias futuras.
+
+PROCESSO DE CONSULTA
+
+Quando receber uma pergunta:
+
+1. Identificar o assunto.
+
+2. Procurar informações relacionadas.
+
+3. Recuperar documentos relevantes.
+
+4. Analisar o contexto.
+
+5. Gerar resposta alinhada ao padrão Proelium.
+
+ORGANIZAÇÃO DOS DADOS
+
+A N.E.M.O. deve priorizar:
+
+- documentos oficiais;
+- informações atualizadas;
+- padrões definidos.
+
+Evitar:
+
+- informações sem validação;
+- respostas genéricas;
+- suposições técnicas.
+
+MEMÓRIA VETORIAL
+
+Futuramente poderá utilizar:
+
+- embeddings;
+- banco vetorial;
+- busca semântica.
+
+Objetivo:
+
+Encontrar informações mesmo quando a pergunta utilizar palavras diferentes dos documentos.
+
+EXEMPLO
+
+Pergunta:
+
+"Qual rede devo usar em uma residência de alto padrão?"
+
+A N.E.M.O. deve localizar:
+
+- arquitetura de redes;
+- Wi-Fi profissional;
+- equipamentos;
+- padrões Proelium.
+
+RESULTADO
+
+Responder utilizando o conhecimento interno da empresa.
+
+REGRA DA N.E.M.O.
+
+Primeiro consultar conhecimento.
+
+Depois analisar.
+
+Por último responder.
+
+OBJETIVO FINAL
+
+Criar uma assistente que pense com base na experiência acumulada da Proelium.

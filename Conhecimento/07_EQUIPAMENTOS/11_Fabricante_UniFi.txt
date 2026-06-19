@@ -1,0 +1,94 @@
+FABRICANTE: UNIFI
+BIBLIOTECA TÉCNICA PROELIUM
+
+
+IDENTIFICAÇÃO:
+
+Nome:
+
+UniFi
+
+Área de atuação:
+
+Redes profissionais, Wi-Fi, segurança de rede e infraestrutura tecnológica.
+
+
+POSICIONAMENTO:
+
+A UniFi é uma plataforma voltada para projetos de rede com gerenciamento centralizado, oferecendo equipamentos integrados por software e com foco em organização, controle e facilidade de administração.
+
+
+APLICAÇÕES:
+
+Utilização:
+
+- residências de alto padrão;
+- escritórios;
+- empresas;
+- ambientes comerciais;
+- projetos com necessidade de gerenciamento profissional.
+
+
+PRINCIPAIS SOLUÇÕES:
+
+- access points Wi-Fi;
+- switches gerenciáveis;
+- gateways;
+- controladores;
+- câmeras IP;
+- gerenciamento de rede.
+
+
+PONTOS FORTES:
+
+- gerenciamento centralizado;
+- interface amigável;
+- boa integração entre equipamentos;
+- organização de infraestrutura;
+- escalabilidade.
+
+
+LIMITAÇÕES:
+
+Avaliar:
+
+- necessidade de recursos avançados;
+- requisitos específicos do projeto;
+- compatibilidade com outros sistemas.
+
+
+COMPATIBILIDADE:
+
+Relaciona-se com:
+
+- redes IP;
+- VLANs;
+- PoE;
+- automação baseada em rede;
+- sistemas de monitoramento.
+
+
+PADRÃO PROELIUM:
+
+Classificação:
+
+Referência técnica para projetos de redes profissionais e infraestrutura tecnológica.
+
+
+REGRA DA N.E.M.O.:
+
+A UniFi deve ser analisada conforme a necessidade do projeto.
+
+Não deve ser indicada apenas pela marca.
+
+A escolha depende:
+
+- quantidade de usuários;
+- cobertura necessária;
+- equipamentos conectados;
+- nível de gerenciamento desejado.
+
+
+RESULTADO ESPERADO:
+
+Utilizar a plataforma UniFi como referência em projetos organizados, confiáveis e escaláveis de rede.

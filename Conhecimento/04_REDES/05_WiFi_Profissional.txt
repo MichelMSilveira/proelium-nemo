@@ -1,0 +1,94 @@
+WIFI PROFISSIONAL
+PADRÃO PROELIUM
+
+
+OBJETIVO:
+
+Definir os princípios utilizados pela Proelium Serviços para planejamento e implantação de redes Wi-Fi profissionais em residências e empresas.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+O Wi-Fi deve ser tratado como uma extensão da infraestrutura de rede cabeada.
+
+Uma rede sem fio profissional depende de planejamento, posicionamento adequado e análise do ambiente.
+
+
+PLANEJAMENTO DO WI-FI:
+
+Antes de definir equipamentos analisar:
+
+- tamanho do ambiente;
+- quantidade de pavimentos;
+- materiais construtivos;
+- quantidade de usuários;
+- quantidade de dispositivos;
+- necessidade de mobilidade.
+
+
+POSICIONAMENTO DOS PONTOS DE ACESSO:
+
+Os pontos de acesso devem ser definidos considerando:
+
+- área de cobertura;
+- obstáculos físicos;
+- interferências;
+- distribuição dos ambientes;
+- capacidade necessária.
+
+
+WI-FI EM PROJETOS DE ALTO PADRÃO:
+
+A Proelium deve priorizar:
+
+- estabilidade;
+- cobertura uniforme;
+- capacidade para múltiplos dispositivos;
+- integração com infraestrutura profissional.
+
+
+REDE CABEADA PARA ACCESS POINTS:
+
+Sempre que possível, os pontos de acesso devem utilizar conexão cabeada.
+
+A infraestrutura cabeada proporciona:
+
+- maior estabilidade;
+- melhor desempenho;
+- menor interferência;
+- facilidade de manutenção.
+
+
+CAPACIDADE DA REDE:
+
+A análise deve considerar:
+
+- quantidade de dispositivos conectados;
+- consumo de dados;
+- sistemas integrados;
+- crescimento futuro.
+
+
+AUTOMAÇÃO E WI-FI:
+
+O Wi-Fi pode atender dispositivos inteligentes, porém a arquitetura deve considerar:
+
+- estabilidade;
+- segurança;
+- gerenciamento;
+- compatibilidade.
+
+
+ERROS A EVITAR:
+
+A Proelium não deve:
+
+- instalar apenas um roteador para grandes ambientes;
+- posicionar access points sem análise;
+- considerar somente velocidade da internet;
+- ignorar crescimento futuro.
+
+
+RESULTADO ESPERADO:
+
+Criar uma rede Wi-Fi confiável, estável e adequada ao padrão tecnológico do projeto.

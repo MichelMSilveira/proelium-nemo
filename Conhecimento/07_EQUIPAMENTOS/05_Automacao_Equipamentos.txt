@@ -1,0 +1,123 @@
+EQUIPAMENTOS DE AUTOMAÇÃO
+BIBLIOTECA TÉCNICA PROELIUM
+
+
+OBJETIVO:
+
+Definir os critérios técnicos para análise de equipamentos de automação utilizados como referência pela Proelium Serviços.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Equipamentos de automação devem ser escolhidos considerando confiabilidade, integração, estabilidade e experiência do usuário.
+
+
+APLICAÇÕES:
+
+Sistemas de automação podem envolver:
+
+- iluminação;
+- cortinas;
+- climatização;
+- áudio e vídeo;
+- segurança;
+- controle de ambientes;
+- gerenciamento residencial e comercial.
+
+
+TIPOS DE EQUIPAMENTOS:
+
+
+CONTROLADORES:
+
+Avaliar:
+
+- capacidade de processamento;
+- quantidade de dispositivos suportados;
+- protocolos disponíveis;
+- possibilidade de expansão;
+- estabilidade operacional.
+
+
+MÓDULOS DE CONTROLE:
+
+Avaliar:
+
+- quantidade de canais;
+- tipo de acionamento;
+- compatibilidade elétrica;
+- método de comunicação.
+
+
+SENSORES:
+
+Avaliar:
+
+- aplicação;
+- ambiente;
+- precisão;
+- necessidade do usuário;
+- integração com outros sistemas.
+
+
+INTERFACES DE CONTROLE:
+
+Avaliar:
+
+- facilidade de utilização;
+- integração;
+- personalização;
+- experiência do usuário.
+
+
+PROTOCOLOS:
+
+Considerar:
+
+- comunicação utilizada;
+- compatibilidade entre sistemas;
+- segurança;
+- confiabilidade.
+
+
+CRITÉRIOS DE ESCOLHA:
+
+Antes de recomendar equipamentos analisar:
+
+- objetivo da automação;
+- tamanho do projeto;
+- infraestrutura existente;
+- sistemas instalados;
+- necessidade de expansão.
+
+
+INTEGRAÇÃO:
+
+Equipamentos de automação podem integrar:
+
+- redes;
+- segurança;
+- áudio e vídeo;
+- climatização;
+- controle por voz.
+
+
+REGRA DA N.E.M.O.:
+
+Equipamentos cadastrados são referências técnicas.
+
+A escolha depende da análise do projeto e das necessidades do cliente.
+
+
+A N.E.M.O. nunca deve apresentar:
+
+- controlador obrigatório;
+- marca definitiva;
+- arquitetura fechada;
+
+sem levantamento técnico.
+
+
+RESULTADO ESPERADO:
+
+Criar soluções de automação confiáveis, escaláveis e alinhadas ao padrão profissional da Proelium Serviços.

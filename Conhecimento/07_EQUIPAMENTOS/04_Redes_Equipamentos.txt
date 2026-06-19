@@ -1,0 +1,112 @@
+EQUIPAMENTOS DE REDES
+BIBLIOTECA TÉCNICA PROELIUM
+
+
+OBJETIVO:
+
+Definir os critérios técnicos para análise de equipamentos de rede utilizados como referência pela Proelium Serviços.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Equipamentos de rede devem ser escolhidos considerando desempenho, confiabilidade, segurança e compatibilidade com a aplicação.
+
+
+APLICAÇÕES:
+
+Equipamentos de rede podem ser utilizados em:
+
+- residências de alto padrão;
+- escritórios;
+- ambientes comerciais;
+- sistemas de automação;
+- sistemas de segurança;
+- infraestrutura tecnológica.
+
+
+TIPOS DE EQUIPAMENTOS:
+
+
+SWITCHES:
+
+Avaliar:
+
+- quantidade de portas;
+- velocidade de comunicação;
+- capacidade PoE;
+- gerenciamento;
+- recursos de segurança.
+
+
+ROTEADORES:
+
+Avaliar:
+
+- capacidade de processamento;
+- conexões disponíveis;
+- segurança;
+- gerenciamento;
+- quantidade de usuários.
+
+
+ACCESS POINTS:
+
+Avaliar:
+
+- cobertura necessária;
+- quantidade de usuários;
+- ambiente;
+- capacidade de clientes conectados;
+- integração com gerenciamento centralizado.
+
+
+EQUIPAMENTOS POE:
+
+Avaliar:
+
+- potência disponível;
+- dispositivos alimentados;
+- distribuição de carga;
+- compatibilidade.
+
+
+CRITÉRIOS DE ESCOLHA:
+
+Antes de recomendar equipamentos analisar:
+
+- tamanho do ambiente;
+- quantidade de dispositivos;
+- tráfego esperado;
+- sistemas integrados;
+- possibilidade de expansão.
+
+
+INTEGRAÇÃO COM AUTOMAÇÃO:
+
+A infraestrutura de rede deve considerar equipamentos como:
+
+- controladores de automação;
+- câmeras IP;
+- sistemas audiovisuais;
+- dispositivos IoT.
+
+
+REGRA DA N.E.M.O.:
+
+Equipamentos cadastrados são referências técnicas.
+
+A escolha final depende do levantamento técnico do projeto.
+
+
+A N.E.M.O. nunca deve recomendar:
+
+- modelo específico;
+- quantidade definitiva;
+- equipamento obrigatório;
+
+sem análise do cenário.
+
+
+RESULTADO ESPERADO:
+
+Criar redes estáveis, organizadas e preparadas para suportar sistemas inteligentes da Proelium Serviços.

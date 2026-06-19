@@ -1,0 +1,157 @@
+CENÁRIOS E ILUMINAÇÃO - AUTOMAÇÃO RESIDENCIAL
+PROELIUM SERVIÇOS
+
+
+OBJETIVO:
+
+Definir os conceitos técnicos utilizados pela Proelium Serviços para criação de cenários de iluminação e controle de ambientes.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+A automação de iluminação não deve ser vista apenas como ligar e desligar lâmpadas.
+
+O objetivo é criar experiências personalizadas através da combinação entre iluminação, ambiente e rotina do usuário.
+
+
+CENÁRIOS:
+
+Um cenário é uma combinação programada de equipamentos e comandos para criar uma determinada experiência no ambiente.
+
+
+Exemplos de cenários:
+
+CENÁRIO RECEBER:
+
+Pode envolver:
+
+- iluminação adequada para áreas sociais;
+- abertura de cortinas;
+- acionamento de áudio;
+- ajuste de climatização.
+
+
+CENÁRIO CINEMA:
+
+Pode envolver:
+
+- redução da iluminação;
+- fechamento de cortinas;
+- acionamento do sistema de áudio e vídeo;
+- preparação do ambiente.
+
+
+CENÁRIO JANTAR:
+
+Pode envolver:
+
+- iluminação indireta;
+- ajuste de intensidade;
+- criação de atmosfera confortável.
+
+
+CENÁRIO AUSENTE:
+
+Pode envolver:
+
+- desligamento de equipamentos;
+- simulação de presença;
+- ativação de segurança.
+
+
+ILUMINAÇÃO INTELIGENTE:
+
+Um sistema profissional deve considerar:
+
+- tipo de luminária;
+- potência;
+- tensão;
+- tipo de acionamento;
+- necessidade de dimerização;
+- compatibilidade dos equipamentos.
+
+
+TIPOS DE CONTROLE:
+
+A iluminação pode ser controlada através de:
+
+- interruptores inteligentes;
+- módulos de automação;
+- teclados de parede;
+- sensores;
+- aplicativos;
+- comandos de voz;
+- programação automática.
+
+
+DIMENSIONAMENTO:
+
+Antes de definir uma solução analisar:
+
+- quantidade de circuitos;
+- quantidade de ambientes;
+- tipo de iluminação;
+- infraestrutura elétrica existente;
+- possibilidade de expansão.
+
+
+SENSORES:
+
+Sensores podem ser utilizados para melhorar:
+
+- conforto;
+- economia;
+- segurança.
+
+
+Exemplos:
+
+Sensor de presença:
+
+Pode acionar iluminação automaticamente conforme movimentação.
+
+
+Sensor de luminosidade:
+
+Pode ajustar acionamentos conforme iluminação natural.
+
+
+INTEGRAÇÃO:
+
+A iluminação pode trabalhar integrada com:
+
+- cortinas;
+- climatização;
+- áudio e vídeo;
+- segurança;
+- controle por voz.
+
+
+CRITÉRIO PROELIUM:
+
+Um projeto de iluminação automatizada deve priorizar:
+
+- experiência do usuário;
+- confiabilidade;
+- facilidade de operação;
+- manutenção futura;
+- expansão.
+
+
+ERROS A EVITAR:
+
+Não definir automação somente pela quantidade de pontos de luz.
+
+A quantidade de dispositivos depende da arquitetura do sistema e da necessidade do usuário.
+
+
+RESULTADO ESPERADO:
+
+Criar ambientes inteligentes onde a tecnologia melhora a experiência sem aumentar a complexidade para o usuário.
+
+
+PRINCÍPIO FINAL:
+
+Automação de iluminação não é apenas controle de luz.
+
+É criação de ambientes inteligentes.

@@ -1,0 +1,94 @@
+PROCESSO DE VISITA TÉCNICA - PADRÃO PROELIUM
+
+OBJETIVO:
+
+Definir o processo de levantamento técnico realizado pela Proelium Serviços antes da elaboração de projetos, propostas e orçamentos.
+
+A visita técnica tem como objetivo compreender o cenário real do cliente, identificar necessidades, avaliar limitações e garantir que a solução proposta seja adequada ao ambiente.
+
+PRINCÍPIO FUNDAMENTAL:
+
+A Proelium não inicia uma recomendação definitiva sem compreender:
+
+- o ambiente;
+- a infraestrutura existente;
+- as necessidades do cliente;
+- os objetivos do projeto;
+- as possibilidades futuras de expansão.
+
+
+ETAPAS DA VISITA TÉCNICA:
+
+1 - ENTENDIMENTO DO CLIENTE
+
+Avaliar:
+
+- objetivo da instalação;
+- expectativas do cliente;
+- prioridades do projeto;
+- experiência desejada;
+- necessidades atuais e futuras.
+
+
+2 - ANÁLISE DO AMBIENTE
+
+Verificar:
+
+- metragem;
+- quantidade de ambientes;
+- quantidade de pavimentos;
+- áreas internas e externas;
+- localização dos equipamentos;
+- limitações físicas.
+
+
+3 - AVALIAÇÃO DA INFRAESTRUTURA
+
+Analisar:
+
+- infraestrutura elétrica;
+- cabeamento existente;
+- rack;
+- rede de dados;
+- pontos disponíveis;
+- equipamentos instalados;
+- condições para expansão.
+
+
+4 - IDENTIFICAÇÃO DOS SISTEMAS
+
+Levantar informações sobre:
+
+- automação residencial;
+- redes;
+- Wi-Fi;
+- áudio e vídeo;
+- cinema;
+- CFTV;
+- controle de acesso;
+- integração entre sistemas.
+
+
+5 - REGISTRO TÉCNICO
+
+A visita deve gerar informações para:
+
+- dimensionamento;
+- projeto;
+- orçamento;
+- definição da arquitetura;
+- documentação futura.
+
+
+REGRAS DA N.E.M.O.:
+
+Quando não existirem dados suficientes da visita técnica:
+
+- solicitar informações complementares;
+- informar limitações da análise;
+- evitar recomendações definitivas.
+
+
+OBJETIVO FINAL:
+
+Garantir que cada projeto Proelium seja desenvolvido com base em informações reais, reduzindo riscos, evitando retrabalho e entregando uma solução profissional ao cliente.

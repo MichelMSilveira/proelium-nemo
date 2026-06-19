@@ -1,0 +1,129 @@
+ARQUITETURA DE REDE PROFISSIONAL
+PADRÃO PROELIUM
+
+
+OBJETIVO:
+
+Definir os princípios utilizados pela Proelium Serviços para planejamento de redes profissionais em residências e empresas.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Uma rede profissional deve ser planejada como uma infraestrutura tecnológica completa.
+
+O projeto deve considerar funcionamento, segurança, manutenção e expansão futura.
+
+
+ELEMENTOS PRINCIPAIS DE UMA ARQUITETURA DE REDE:
+
+
+1 - CONEXÃO DE INTERNET
+
+A entrada de internet deve ser avaliada considerando:
+
+- velocidade contratada;
+- estabilidade do serviço;
+- necessidade dos usuários;
+- quantidade de dispositivos;
+- aplicações críticas.
+
+
+2 - ROTEAMENTO E SEGURANÇA
+
+O equipamento responsável pelo gerenciamento da rede deve considerar:
+
+- capacidade de processamento;
+- controle de acesso;
+- segurança;
+- gerenciamento;
+- possibilidade de expansão.
+
+
+3 - SWITCH DE REDE
+
+A escolha do switch deve considerar:
+
+- quantidade de pontos;
+- velocidade da rede;
+- equipamentos conectados;
+- necessidade de PoE;
+- expansão futura.
+
+
+4 - CABEAMENTO ESTRUTURADO
+
+A infraestrutura cabeada deve ser planejada considerando:
+
+- categoria dos cabos;
+- identificação dos pontos;
+- organização;
+- documentação;
+- facilidade de manutenção.
+
+
+5 - PONTOS DE ACESSO WI-FI
+
+Os pontos de acesso devem ser definidos considerando:
+
+- área de cobertura;
+- quantidade de usuários;
+- materiais construtivos;
+- interferências;
+- necessidade de mobilidade.
+
+
+6 - RACK TÉCNICO
+
+Quando aplicável, os equipamentos devem ser organizados em rack.
+
+O rack deve permitir:
+
+- organização;
+- ventilação;
+- identificação;
+- manutenção;
+- expansão.
+
+
+REDE PARA SISTEMAS INTEGRADOS:
+
+A arquitetura deve estar preparada para suportar:
+
+- automação residencial;
+- câmeras IP;
+- controle de acesso;
+- áudio e vídeo;
+- servidores;
+- dispositivos inteligentes.
+
+
+SEGMENTAÇÃO DE REDE:
+
+Quando necessário, a rede pode ser organizada em diferentes segmentos para melhorar:
+
+- segurança;
+- desempenho;
+- gerenciamento.
+
+
+Exemplos:
+
+- rede de usuários;
+- rede de automação;
+- rede de câmeras;
+- rede de equipamentos técnicos.
+
+
+ERROS A EVITAR:
+
+A Proelium não deve:
+
+- dimensionar rede apenas pela velocidade da internet;
+- instalar equipamentos sem analisar demanda;
+- ignorar expansão futura;
+- deixar infraestrutura sem documentação.
+
+
+RESULTADO ESPERADO:
+
+Criar uma rede estável, segura e preparada para suportar todos os sistemas tecnológicos do projeto.

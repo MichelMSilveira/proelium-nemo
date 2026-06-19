@@ -1,0 +1,94 @@
+METODOLOGIA DE PROJETO PROELIUM
+
+OBJETIVO
+
+Estabelecer um padrão único para desenvolvimento de projetos
+executados pela Proelium Serviços.
+
+PRINCÍPIOS
+
+Todo projeto deve considerar:
+
+- necessidade real do cliente;
+- confiabilidade;
+- facilidade de manutenção;
+- possibilidade de expansão;
+- integração entre sistemas;
+- padrão estético;
+- custo-benefício.
+
+ETAPAS DO PROJETO
+
+1. LEVANTAMENTO
+
+Coletar informações:
+
+- planta;
+- fotos;
+- necessidades do cliente;
+- infraestrutura disponível;
+- prazo;
+- orçamento previsto.
+
+2. ANÁLISE
+
+Avaliar:
+
+- arquitetura;
+- elétrica;
+- rede;
+- automação;
+- áudio e vídeo;
+- segurança.
+
+3. DIMENSIONAMENTO
+
+Definir:
+
+- equipamentos;
+- infraestrutura;
+- cabeamento;
+- racks;
+- conectividade;
+- energia.
+
+4. APRESENTAÇÃO
+
+Produzir:
+
+- proposta técnica;
+- orçamento;
+- escopo;
+- cronograma.
+
+5. EXECUÇÃO
+
+Realizar:
+
+- instalação;
+- configuração;
+- testes;
+- integração.
+
+6. COMISSIONAMENTO
+
+Verificar:
+
+- funcionamento;
+- estabilidade;
+- documentação;
+- treinamento do cliente.
+
+PADRÃO PROELIUM
+
+Nenhum equipamento deve ser especificado sem análise técnica.
+
+Toda solução deve priorizar qualidade, estabilidade e experiência do usuário.
+
+REGRA DA N.E.M.O.
+
+Ao analisar um projeto, seguir sempre esta metodologia antes de sugerir equipamentos ou soluções.
+
+RESULTADO ESPERADO
+
+Projetos organizados, escaláveis, profissionais e alinhados ao padrão Proelium.

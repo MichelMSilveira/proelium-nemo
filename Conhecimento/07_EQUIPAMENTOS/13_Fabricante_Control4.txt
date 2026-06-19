@@ -1,0 +1,96 @@
+FABRICANTE: CONTROL4
+BIBLIOTECA TÉCNICA PROELIUM
+
+
+IDENTIFICAÇÃO:
+
+Nome:
+
+Control4
+
+Área de atuação:
+
+Automação residencial e controle integrado de ambientes.
+
+
+POSICIONAMENTO:
+
+A Control4 é uma plataforma de automação premium voltada para projetos residenciais e comerciais que necessitam de integração completa entre diversos sistemas tecnológicos.
+
+
+APLICAÇÕES:
+
+Utilização:
+
+- residências de alto padrão;
+- mansões;
+- apartamentos premium;
+- projetos corporativos;
+- salas de entretenimento.
+
+
+PRINCIPAIS SOLUÇÕES:
+
+- controladores de automação;
+- interfaces de controle;
+- iluminação;
+- climatização;
+- áudio e vídeo;
+- segurança;
+- integração de sistemas.
+
+
+PONTOS FORTES:
+
+- plataforma consolidada;
+- grande capacidade de integração;
+- experiência premium ao usuário;
+- gerenciamento centralizado;
+- projetos personalizados.
+
+
+LIMITAÇÕES:
+
+Avaliar:
+
+- investimento necessário;
+- complexidade do projeto;
+- necessidade de programação especializada;
+- infraestrutura disponível.
+
+
+COMPATIBILIDADE:
+
+Integra com:
+
+- redes IP;
+- áudio e vídeo;
+- câmeras;
+- climatização;
+- iluminação;
+- dispositivos inteligentes.
+
+
+PADRÃO PROELIUM:
+
+Classificação:
+
+Referência para projetos de automação residencial premium.
+
+
+REGRA DA N.E.M.O.:
+
+A Control4 deve ser considerada quando o projeto exige alto nível de integração, confiabilidade e experiência personalizada.
+
+
+A escolha depende:
+
+- perfil do cliente;
+- complexidade;
+- orçamento;
+- arquitetura tecnológica.
+
+
+RESULTADO ESPERADO:
+
+Criar soluções de automação premium com integração completa e experiência de uso diferenciada.

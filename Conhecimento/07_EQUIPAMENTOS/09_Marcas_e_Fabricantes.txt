@@ -1,0 +1,113 @@
+MARCAS E FABRICANTES
+BIBLIOTECA TÉCNICA PROELIUM
+
+
+OBJETIVO:
+
+Organizar informações sobre fabricantes e tecnologias utilizadas como referência nos projetos da Proelium Serviços.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Fabricantes são referências técnicas e devem ser avaliados conforme aplicação, compatibilidade e necessidade do projeto.
+
+
+CRITÉRIOS DE ANÁLISE:
+
+
+HISTÓRICO:
+
+Avaliar:
+
+- experiência no mercado;
+- confiabilidade;
+- suporte;
+- disponibilidade.
+
+
+APLICAÇÃO:
+
+Identificar:
+
+- onde o fabricante é utilizado;
+- quais soluções oferece;
+- quais ambientes atende.
+
+
+COMPATIBILIDADE:
+
+Avaliar:
+
+- protocolos;
+- integrações;
+- comunicação entre sistemas;
+- expansão futura.
+
+
+QUALIDADE:
+
+Considerar:
+
+- estabilidade;
+- acabamento;
+- desempenho;
+- manutenção.
+
+
+FABRICANTES PODEM SER CLASSIFICADOS POR ÁREA:
+
+
+REDES:
+
+Exemplos de aplicação:
+
+- infraestrutura;
+- switches;
+- Wi-Fi;
+- gerenciamento.
+
+
+AUTOMAÇÃO:
+
+Exemplos de aplicação:
+
+- controle residencial;
+- integração;
+- interfaces;
+- módulos.
+
+
+SEGURANÇA:
+
+Exemplos de aplicação:
+
+- câmeras;
+- gravação;
+- controle de acesso.
+
+
+ÁUDIO E VÍDEO:
+
+Exemplos de aplicação:
+
+- cinema residencial;
+- áudio distribuído;
+- entretenimento.
+
+
+REGRA DA N.E.M.O.:
+
+A marca nunca deve ser escolhida apenas pelo nome.
+
+A escolha deve considerar:
+
+- projeto;
+- ambiente;
+- necessidade;
+- orçamento;
+- confiabilidade.
+
+
+RESULTADO ESPERADO:
+
+Criar uma base de conhecimento de fabricantes que permita análises técnicas profissionais e imparciais.

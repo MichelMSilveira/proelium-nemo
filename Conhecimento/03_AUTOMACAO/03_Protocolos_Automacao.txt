@@ -1,0 +1,166 @@
+PROTOCOLOS DE AUTOMAÇÃO RESIDENCIAL
+PROELIUM SERVIÇOS
+
+
+OBJETIVO:
+
+Definir os principais protocolos utilizados em sistemas de automação residencial e os critérios técnicos para escolha da arquitetura adequada.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+A escolha de um protocolo de automação não deve ser baseada apenas em preço ou facilidade de instalação.
+
+A decisão deve considerar:
+
+- confiabilidade;
+- estabilidade;
+- ambiente;
+- infraestrutura disponível;
+- quantidade de dispositivos;
+- necessidade de expansão;
+- manutenção futura.
+
+
+AUTOMAÇÃO SEM FIO:
+
+Soluções sem fio podem ser utilizadas quando a infraestrutura existente não permite cabeamento dedicado ou quando a aplicação é adequada para este tipo de tecnologia.
+
+Antes de utilizar uma solução sem fio avaliar:
+
+- qualidade da rede;
+- interferências;
+- alcance;
+- quantidade de dispositivos;
+- necessidade de repetição de sinal;
+- estabilidade esperada.
+
+
+WI-FI:
+
+O Wi-Fi utiliza a rede IP existente para comunicação dos dispositivos.
+
+Características:
+
+Vantagens:
+
+- ampla disponibilidade;
+- fácil integração;
+- utilização da infraestrutura existente.
+
+Pontos de atenção:
+
+- excesso de dispositivos pode comprometer a rede;
+- depende da qualidade do projeto de rede;
+- equipamentos devem ser corretamente dimensionados.
+
+
+Aplicações comuns:
+
+- dispositivos conectados;
+- assistentes de voz;
+- equipamentos multimídia;
+- integrações com sistemas IP.
+
+
+ZIGBEE:
+
+Protocolo sem fio de baixo consumo utilizado principalmente para sensores e dispositivos de automação.
+
+Características:
+
+- comunicação em malha (mesh);
+- baixo consumo energético;
+- grande utilização em sensores e acionadores.
+
+Avaliar:
+
+- qualidade dos dispositivos;
+- quantidade de nós;
+- cobertura;
+- compatibilidade entre fabricantes.
+
+
+Z-WAVE:
+
+Protocolo sem fio desenvolvido para automação residencial.
+
+Características:
+
+- comunicação em malha;
+- foco em dispositivos residenciais;
+- boa interoperabilidade entre equipamentos compatíveis.
+
+
+KNX:
+
+Protocolo profissional utilizado em automação residencial e predial de alto padrão.
+
+Características:
+
+- arquitetura estruturada;
+- grande confiabilidade;
+- utilizado em projetos de maior complexidade;
+- adequado para sistemas integrados.
+
+
+AUTOMAÇÃO CABEADA:
+
+Sistemas cabeados podem oferecer maior estabilidade e previsibilidade.
+
+Devem ser considerados principalmente em:
+
+- construções novas;
+- projetos de alto padrão;
+- sistemas críticos;
+- grandes integrações.
+
+
+CRITÉRIOS DE ESCOLHA:
+
+Antes de recomendar um protocolo analisar:
+
+- tipo de projeto;
+- fase da obra;
+- infraestrutura existente;
+- expectativa do cliente;
+- quantidade de ambientes;
+- necessidade de manutenção;
+- possibilidade de expansão.
+
+
+INTEGRAÇÃO ENTRE SISTEMAS:
+
+Um projeto profissional pode integrar diferentes tecnologias.
+
+Exemplo de arquitetura possível:
+
+- rede IP como infraestrutura principal;
+- automação cabeada ou sem fio conforme aplicação;
+- integração com áudio e vídeo;
+- controle por aplicativo ou voz.
+
+
+REGRA PROELIUM:
+
+A tecnologia escolhida deve atender ao projeto.
+
+O projeto não deve ser limitado pela tecnologia escolhida.
+
+
+A N.E.M.O. nunca deve recomendar um protocolo sem analisar:
+
+- ambiente;
+- necessidade;
+- infraestrutura;
+- objetivo do cliente.
+
+
+Quando faltar informação:
+
+Solicitar levantamento técnico antes de definir arquitetura.
+
+
+RESULTADO ESPERADO:
+
+Criar sistemas de automação confiáveis, escaláveis e adequados ao padrão de cada projeto.

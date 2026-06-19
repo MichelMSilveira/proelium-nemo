@@ -1,0 +1,132 @@
+DIMENSIONAMENTO DE ÁUDIO E VÍDEO PROELIUM
+
+OBJETIVO
+
+Definir corretamente sistemas de áudio e vídeo para ambientes residenciais e comerciais.
+
+PRINCÍPIOS
+
+Os sistemas devem proporcionar:
+
+- qualidade;
+- conforto;
+- facilidade de uso;
+- integração;
+- experiência premium.
+
+LEVANTAMENTO INICIAL
+
+Identificar:
+
+- tipo do ambiente;
+- finalidade de uso;
+- quantidade de usuários;
+- distância de visualização;
+- padrão desejado pelo cliente.
+
+TIPOS DE PROJETOS
+
+- sala de TV;
+- cinema residencial;
+- áudio distribuído;
+- área gourmet;
+- sala de reunião;
+- auditório;
+- showroom.
+
+ANÁLISE DO AMBIENTE
+
+Avaliar:
+
+- área;
+- pé-direito;
+- acústica;
+- materiais predominantes;
+- iluminação.
+
+DIMENSIONAMENTO DE TVS
+
+Considerar:
+
+- distância de visualização;
+- resolução;
+- uso principal.
+
+DIMENSIONAMENTO DE PROJETORES
+
+Avaliar:
+
+- tamanho da tela;
+- luminosidade do ambiente;
+- distância de projeção.
+
+CINEMA RESIDENCIAL
+
+Definir:
+
+- quantidade de canais;
+- posicionamento das caixas;
+- receiver;
+- subwoofers;
+- automação.
+
+Exemplos:
+
+- 5.1
+- 7.1
+- 5.1.2
+- 7.2.4
+
+ÁUDIO DISTRIBUÍDO
+
+Considerar:
+
+- quantidade de ambientes;
+- controle independente;
+- integração com automação.
+
+CAIXAS ACÚSTICAS
+
+Avaliar:
+
+- embutidas;
+- bookshelf;
+- torre;
+- externas;
+- arquiteturais.
+
+EQUIPAMENTOS
+
+Dimensionar:
+
+- receivers;
+- amplificadores;
+- processadores;
+- streamers;
+- players.
+
+INTEGRAÇÃO
+
+Priorizar integração com:
+
+- automação;
+- controle por aplicativo;
+- comandos por voz;
+- touch panels.
+
+PADRÃO PROELIUM
+
+A escolha dos equipamentos deve ser baseada na experiência desejada e não apenas em potência ou preço.
+
+REGRA DA N.E.M.O.
+
+Ao receber informações de um ambiente:
+
+- avaliar tamanho;
+- avaliar uso;
+- sugerir arquitetura de áudio;
+- recomendar categoria de equipamentos.
+
+RESULTADO ESPERADO
+
+Experiência audiovisual de alta qualidade, integrada ao projeto e ao perfil do cliente.

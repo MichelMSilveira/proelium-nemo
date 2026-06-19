@@ -1,0 +1,86 @@
+FABRICANTE: JBL
+BIBLIOTECA TÉCNICA PROELIUM
+
+
+IDENTIFICAÇÃO:
+
+Nome:
+
+JBL
+
+Área de atuação:
+
+Áudio profissional, residencial, caixas acústicas e sistemas de entretenimento.
+
+
+POSICIONAMENTO:
+
+A JBL é uma marca reconhecida mundialmente no segmento de áudio, oferecendo soluções para diferentes níveis de aplicação, desde sistemas residenciais até ambientes profissionais.
+
+
+APLICAÇÕES:
+
+Utilização:
+
+- áudio distribuído residencial;
+- salas de entretenimento;
+- ambientes comerciais;
+- sistemas de som ambiente.
+
+
+PRINCIPAIS SOLUÇÕES:
+
+- caixas acústicas;
+- soundbars;
+- amplificadores;
+- equipamentos de áudio;
+- soluções profissionais.
+
+
+PONTOS FORTES:
+
+- reconhecimento de mercado;
+- variedade de produtos;
+- boa relação custo-benefício;
+- disponibilidade.
+
+
+LIMITAÇÕES:
+
+Avaliar:
+
+- objetivo do projeto;
+- nível de fidelidade desejado;
+- características acústicas do ambiente.
+
+
+COMPATIBILIDADE:
+
+Pode integrar com:
+
+- receivers;
+- amplificadores;
+- automação residencial;
+- sistemas de áudio distribuído.
+
+
+PADRÃO PROELIUM:
+
+Classificação:
+
+Referência para projetos de áudio residencial e comercial conforme necessidade.
+
+
+REGRA DA N.E.M.O.:
+
+O equipamento de áudio deve ser escolhido considerando:
+
+- ambiente;
+- acústica;
+- potência necessária;
+- experiência desejada pelo usuário.
+
+
+RESULTADO ESPERADO:
+
+Criar soluções de áudio com qualidade, equilíbrio e integração ao projeto tecnológico.

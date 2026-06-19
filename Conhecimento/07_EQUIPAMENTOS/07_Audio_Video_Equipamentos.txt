@@ -1,0 +1,130 @@
+EQUIPAMENTOS DE ÁUDIO E VÍDEO
+BIBLIOTECA TÉCNICA PROELIUM
+
+
+OBJETIVO:
+
+Definir os critérios técnicos para análise de equipamentos de áudio e vídeo utilizados como referência pela Proelium Serviços.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Equipamentos de áudio e vídeo devem ser selecionados considerando experiência do usuário, qualidade, integração, ambiente e confiabilidade.
+
+
+APLICAÇÕES:
+
+Sistemas audiovisuais podem atender:
+
+- salas de cinema residencial;
+- ambientes integrados;
+- salas de reunião;
+- áudio distribuído;
+- entretenimento residencial.
+
+
+TIPOS DE EQUIPAMENTOS:
+
+
+TELAS E DISPLAYS:
+
+Avaliar:
+
+- tamanho adequado;
+- resolução;
+- ambiente;
+- distância de visualização;
+- tecnologia utilizada.
+
+
+PROJETORES:
+
+Avaliar:
+
+- luminosidade;
+- contraste;
+- ambiente;
+- distância de projeção;
+- infraestrutura necessária.
+
+
+RECEIVERS E PROCESSADORES:
+
+Avaliar:
+
+- quantidade de canais;
+- formatos suportados;
+- integração;
+- capacidade de processamento.
+
+
+AMPLIFICADORES:
+
+Avaliar:
+
+- potência;
+- quantidade de zonas;
+- compatibilidade com caixas;
+- aplicação.
+
+
+CAIXAS ACÚSTICAS:
+
+Avaliar:
+
+- ambiente;
+- posicionamento;
+- acústica;
+- finalidade do sistema.
+
+
+ÁUDIO DISTRIBUÍDO:
+
+Considerar:
+
+- quantidade de ambientes;
+- controle independente;
+- infraestrutura;
+- integração.
+
+
+INFRAESTRUTURA:
+
+Avaliar:
+
+- cabeamento;
+- energia;
+- rede;
+- posicionamento;
+- manutenção futura.
+
+
+INTEGRAÇÃO:
+
+Equipamentos audiovisuais podem integrar:
+
+- automação residencial;
+- controle por aplicativo;
+- comandos de voz;
+- sistemas inteligentes.
+
+
+REGRA DA N.E.M.O.:
+
+Equipamentos cadastrados são referências técnicas.
+
+A escolha depende do ambiente, objetivo do cliente e arquitetura definida.
+
+
+A N.E.M.O. nunca deve recomendar:
+
+- equipamento definitivo;
+- dimensionamento fechado;
+- solução padrão;
+
+sem análise técnica.
+
+
+RESULTADO ESPERADO:
+
+Criar soluções audiovisuais de alto padrão, integradas e alinhadas à experiência desejada pelo cliente.

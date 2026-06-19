@@ -1,0 +1,103 @@
+MODELO DE FICHA DE FABRICANTE
+BIBLIOTECA TÉCNICA PROELIUM
+
+
+OBJETIVO:
+
+Criar um padrão para cadastro de fabricantes utilizados como referência nos projetos da Proelium Serviços.
+
+
+IDENTIFICAÇÃO:
+
+Nome do fabricante:
+
+Área de atuação:
+
+Principais soluções:
+
+
+POSICIONAMENTO:
+
+Descrever:
+
+- padrão de qualidade;
+- mercado atendido;
+- perfil de aplicação.
+
+
+APLICAÇÕES:
+
+Informar onde pode ser utilizado:
+
+- residencial;
+- alto padrão;
+- comercial;
+- corporativo;
+- projetos especiais.
+
+
+PRINCIPAIS PRODUTOS:
+
+Registrar categorias:
+
+- redes;
+- automação;
+- segurança;
+- áudio e vídeo;
+- infraestrutura.
+
+
+PONTOS FORTES:
+
+Informar:
+
+- confiabilidade;
+- integração;
+- suporte;
+- desempenho;
+- diferenciais.
+
+
+LIMITAÇÕES:
+
+Registrar:
+
+- restrições;
+- situações onde não é recomendado;
+- necessidades adicionais.
+
+
+COMPATIBILIDADE:
+
+Avaliar:
+
+- protocolos;
+- integrações;
+- softwares;
+- outros fabricantes.
+
+
+PADRÃO PROELIUM:
+
+Classificar:
+
+- recomendado;
+- utilizado como referência;
+- avaliado conforme projeto.
+
+
+REGRA DA N.E.M.O.:
+
+Fabricantes não devem ser indicados apenas pela marca.
+
+A recomendação depende:
+
+- necessidade do cliente;
+- arquitetura do projeto;
+- orçamento;
+- confiabilidade desejada.
+
+
+RESULTADO ESPERADO:
+
+Criar uma base técnica imparcial de fabricantes para apoiar decisões de projeto.

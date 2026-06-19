@@ -1,0 +1,99 @@
+DOCUMENTAÇÃO DE ENTREGA PROELIUM
+
+OBJETIVO
+
+Garantir que todo projeto executado pela Proelium seja entregue de forma organizada, documentada e profissional.
+
+PRINCÍPIOS
+
+Todo sistema deve ser documentado.
+
+A documentação deve permitir:
+
+- manutenção futura;
+- expansão;
+- suporte técnico;
+- rápida identificação de equipamentos.
+
+DOCUMENTOS DE ENTREGA
+
+Podem incluir:
+
+- relatório técnico;
+- planta de pontos;
+- diagrama de rede;
+- identificação de equipamentos;
+- identificação de racks;
+- credenciais organizadas;
+- manual do cliente.
+
+IDENTIFICAÇÃO DE EQUIPAMENTOS
+
+Registrar:
+
+- fabricante;
+- modelo;
+- número de série;
+- local de instalação;
+- função do equipamento.
+
+DOCUMENTAÇÃO DE REDE
+
+Registrar:
+
+- topologia;
+- switches;
+- access points;
+- VLANs;
+- faixas de IP;
+- identificação de portas.
+
+DOCUMENTAÇÃO DE AUTOMAÇÃO
+
+Registrar:
+
+- dispositivos instalados;
+- cenas;
+- integrações;
+- usuários autorizados.
+
+DOCUMENTAÇÃO DE SEGURANÇA
+
+Registrar:
+
+- câmeras;
+- NVR;
+- armazenamento;
+- acessos;
+- usuários.
+
+DOCUMENTAÇÃO DE ÁUDIO E VÍDEO
+
+Registrar:
+
+- equipamentos;
+- conexões;
+- zonas;
+- configurações principais.
+
+ENTREGA AO CLIENTE
+
+Disponibilizar:
+
+- documentação digital;
+- orientações básicas;
+- canais de suporte.
+
+PADRÃO PROELIUM
+
+Projetos não terminam na instalação.
+
+Projetos terminam após documentação e entrega formal.
+
+REGRA DA N.E.M.O.
+
+Sempre recomendar documentação completa para projetos profissionais.
+
+RESULTADO ESPERADO
+
+Projetos organizados, rastreáveis e fáceis de manter ao longo do tempo.

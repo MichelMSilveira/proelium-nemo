@@ -1,0 +1,91 @@
+FABRICANTE: DAHUA
+BIBLIOTECA TÉCNICA PROELIUM
+
+
+IDENTIFICAÇÃO:
+
+Nome:
+
+Dahua
+
+Área de atuação:
+
+Segurança eletrônica, videomonitoramento, controle de acesso e soluções IP.
+
+
+POSICIONAMENTO:
+
+A Dahua é um fabricante de soluções de segurança eletrônica utilizado em projetos residenciais, comerciais e corporativos, oferecendo equipamentos de monitoramento e análise inteligente.
+
+
+APLICAÇÕES:
+
+Utilização:
+
+- residências;
+- condomínios;
+- empresas;
+- áreas comerciais;
+- projetos integrados.
+
+
+PRINCIPAIS SOLUÇÕES:
+
+- câmeras IP;
+- gravadores NVR;
+- sistemas inteligentes de análise;
+- controle de acesso;
+- vídeo porteiro.
+
+
+PONTOS FORTES:
+
+- amplo portfólio;
+- soluções IP;
+- recursos inteligentes;
+- variedade de modelos;
+- aplicação em diferentes níveis de projeto.
+
+
+LIMITAÇÕES:
+
+Avaliar:
+
+- necessidade do cliente;
+- ambiente de instalação;
+- integração com outros sistemas;
+- segurança da infraestrutura de rede.
+
+
+COMPATIBILIDADE:
+
+Integra com:
+
+- redes IP;
+- switches PoE;
+- sistemas de gerenciamento;
+- automação;
+- plataformas de monitoramento.
+
+
+PADRÃO PROELIUM:
+
+Classificação:
+
+Referência técnica para projetos de segurança eletrônica.
+
+
+REGRA DA N.E.M.O.:
+
+A escolha entre fabricantes deve considerar:
+
+- objetivo da segurança;
+- qualidade de imagem;
+- ambiente;
+- infraestrutura;
+- confiabilidade.
+
+
+RESULTADO ESPERADO:
+
+Criar sistemas de segurança profissionais, estáveis e adequados às necessidades do cliente.

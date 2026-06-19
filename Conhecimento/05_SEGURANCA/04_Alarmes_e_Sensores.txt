@@ -1,0 +1,85 @@
+ALARMES E SENSORES
+PADRÃO PROELIUM
+
+
+OBJETIVO:
+
+Definir os princípios utilizados pela Proelium Serviços para aplicação de sistemas de alarme, sensores e detecção em soluções de segurança residencial e comercial.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Sistemas de alarme devem ser planejados como parte de uma solução completa de segurança, não apenas como equipamentos instalados isoladamente.
+
+
+LEVANTAMENTO TÉCNICO:
+
+Antes de definir uma solução avaliar:
+
+- características do imóvel;
+- áreas vulneráveis;
+- circulação de pessoas;
+- pontos de entrada e saída;
+- rotina dos usuários;
+- integração desejada.
+
+
+TIPOS DE SENSORES:
+
+Podem ser utilizados conforme a necessidade:
+
+- sensores de movimento;
+- sensores de abertura;
+- sensores de presença;
+- sensores de fumaça;
+- sensores de vazamento;
+- sensores técnicos.
+
+
+APLICAÇÃO:
+
+A escolha dos sensores deve considerar:
+
+- ambiente de instalação;
+- objetivo da detecção;
+- possibilidade de falsos disparos;
+- confiabilidade;
+- manutenção.
+
+
+INTEGRAÇÃO:
+
+Sistemas de alarme podem integrar com:
+
+- câmeras;
+- controle de acesso;
+- automação residencial;
+- iluminação;
+- notificações;
+- monitoramento remoto.
+
+
+CONFIGURAÇÃO:
+
+Avaliar:
+
+- zonas de segurança;
+- usuários autorizados;
+- histórico de eventos;
+- comunicação do sistema;
+- procedimentos de resposta.
+
+
+ERROS A EVITAR:
+
+A Proelium não deve:
+
+- instalar sensores sem análise do ambiente;
+- escolher equipamentos apenas pelo preço;
+- ignorar interferências e limitações do local;
+- criar soluções sem documentação.
+
+
+RESULTADO ESPERADO:
+
+Criar sistemas de segurança inteligentes, confiáveis e integrados ao ambiente tecnológico do cliente.

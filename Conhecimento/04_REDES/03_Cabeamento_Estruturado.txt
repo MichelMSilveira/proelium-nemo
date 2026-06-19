@@ -1,0 +1,104 @@
+CABEAMENTO ESTRUTURADO
+PADRÃO PROELIUM
+
+
+OBJETIVO:
+
+Definir os princípios utilizados pela Proelium Serviços para planejamento, instalação e organização de cabeamento estruturado em projetos residenciais e comerciais.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+O cabeamento estruturado representa a base física da infraestrutura tecnológica.
+
+Uma instalação profissional deve priorizar organização, identificação, desempenho e facilidade de manutenção.
+
+
+PLANEJAMENTO DO CABEAMENTO:
+
+Antes da instalação considerar:
+
+- quantidade de pontos necessários;
+- localização dos equipamentos;
+- ambientes atendidos;
+- necessidade futura de expansão;
+- integração com outros sistemas.
+
+
+ELEMENTOS DE UMA INFRAESTRUTURA PROFISSIONAL:
+
+A instalação pode envolver:
+
+- rack;
+- patch panel;
+- keystone;
+- tomadas de rede;
+- cabos estruturados;
+- organizadores;
+- identificação dos pontos.
+
+
+ORGANIZAÇÃO:
+
+Todo cabeamento deve possuir:
+
+- identificação clara;
+- organização física;
+- acabamento adequado;
+- documentação dos pontos.
+
+
+PATCH PANEL:
+
+O patch panel deve ser utilizado para:
+
+- organização dos cabos;
+- facilitar manutenção;
+- permitir alterações futuras;
+- melhorar a apresentação técnica do rack.
+
+
+CONECTORIZAÇÃO:
+
+A terminação dos cabos deve seguir padrões técnicos adequados.
+
+A qualidade da conectorização influencia diretamente:
+
+- estabilidade;
+- desempenho;
+- diagnóstico de falhas.
+
+
+CATEGORIA DOS CABOS:
+
+A escolha da categoria deve considerar:
+
+- velocidade necessária;
+- distância;
+- aplicação;
+- possibilidade de expansão futura.
+
+
+DOCUMENTAÇÃO:
+
+Após a conclusão, quando aplicável, registrar:
+
+- identificação dos pontos;
+- localização;
+- equipamentos conectados;
+- alterações realizadas.
+
+
+ERROS A EVITAR:
+
+A Proelium não deve:
+
+- instalar cabos sem identificação;
+- misturar infraestrutura sem organização;
+- deixar rack sem documentação;
+- tratar cabeamento como simples passagem de fios.
+
+
+RESULTADO ESPERADO:
+
+Entregar uma infraestrutura organizada, confiável e preparada para receber tecnologias atuais e futuras.

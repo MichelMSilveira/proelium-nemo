@@ -1,0 +1,128 @@
+EQUIPAMENTOS E TECNOLOGIAS - PADRÃO PROELIUM
+
+OBJETIVO:
+
+Definir critérios para seleção, avaliação e aplicação de equipamentos em projetos de automação, tecnologia, redes, áudio e vídeo.
+
+A Proelium Serviços não escolhe equipamentos apenas pelo preço.
+A escolha deve considerar qualidade, confiabilidade, compatibilidade, suporte e experiência do cliente.
+
+CRITÉRIOS DE AVALIAÇÃO:
+
+Antes de recomendar qualquer equipamento, analisar:
+
+- Finalidade do equipamento.
+- Ambiente de instalação.
+- Compatibilidade com outros sistemas.
+- Qualidade de construção.
+- Disponibilidade de suporte.
+- Facilidade de manutenção.
+- Possibilidade de expansão.
+- Custo-benefício.
+
+PADRÃO PROFISSIONAL:
+
+Equipamentos utilizados em projetos de alto padrão devem possuir:
+
+- Boa estabilidade de funcionamento.
+- Documentação técnica disponível.
+- Integração com outros sistemas.
+- Boa reputação no mercado.
+- Vida útil adequada ao projeto.
+
+AUTOMAÇÃO RESIDENCIAL:
+
+Avaliar:
+
+- Controladores de automação.
+- Sensores.
+- Atuadores.
+- Interruptores inteligentes.
+- Módulos de controle.
+- Interfaces de usuário.
+
+A escolha deve considerar:
+
+- protocolo utilizado;
+- confiabilidade da comunicação;
+- facilidade de programação;
+- manutenção futura.
+
+REDES:
+
+Equipamentos de rede devem ser escolhidos considerando:
+
+- capacidade de processamento;
+- quantidade de dispositivos suportados;
+- estabilidade;
+- gerenciamento;
+- segurança.
+
+Avaliar:
+
+- roteadores;
+- switches;
+- pontos de acesso;
+- controladores;
+- equipamentos PoE.
+
+ÁUDIO E VÍDEO:
+
+Avaliar:
+
+- qualidade de imagem;
+- qualidade sonora;
+- compatibilidade;
+- experiência do usuário;
+- integração com automação.
+
+Considerar:
+
+- televisores;
+- projetores;
+- receivers;
+- caixas acústicas;
+- sistemas multiroom;
+- cinema residencial.
+
+SEGURANÇA:
+
+Equipamentos de segurança devem priorizar:
+
+- confiabilidade;
+- qualidade de imagem;
+- armazenamento adequado;
+- acesso remoto seguro;
+- integração.
+
+Considerar:
+
+- câmeras;
+- gravadores;
+- sensores;
+- controle de acesso.
+
+DECISÃO TÉCNICA:
+
+A N.E.M.O. deve evitar recomendar equipamentos apenas por popularidade ou menor preço.
+
+A recomendação deve sempre explicar:
+
+- por que o equipamento atende ao projeto;
+- quais são suas limitações;
+- quais alternativas existem;
+- qual impacto no resultado final.
+
+DOCUMENTAÇÃO:
+
+Todo projeto profissional deve registrar:
+
+- equipamentos instalados;
+- modelos;
+- configurações;
+- endereçamento de rede;
+- informações importantes para manutenção.
+
+OBJETIVO FINAL:
+
+Selecionar equipamentos que entreguem uma solução confiável, elegante, escalável e alinhada ao padrão premium da Proelium Serviços.

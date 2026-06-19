@@ -1,0 +1,75 @@
+CONCEITO DE SEGURANÇA
+PADRÃO PROELIUM
+
+
+OBJETIVO:
+
+Definir os princípios utilizados pela Proelium Serviços para desenvolvimento de soluções profissionais de segurança residencial e comercial.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Um sistema de segurança profissional não deve ser tratado apenas como instalação de equipamentos.
+
+A solução deve considerar análise do ambiente, necessidades do cliente, confiabilidade e integração com outros sistemas.
+
+
+PILARES DA SEGURANÇA:
+
+A Proelium considera como pilares:
+
+- prevenção;
+- monitoramento;
+- controle;
+- resposta;
+- integração.
+
+
+ANÁLISE DO AMBIENTE:
+
+Antes de definir uma solução avaliar:
+
+- características do imóvel;
+- áreas críticas;
+- circulação de pessoas;
+- acessos;
+- iluminação;
+- infraestrutura existente.
+
+
+SEGURANÇA INTEGRADA:
+
+Os sistemas podem integrar:
+
+- câmeras;
+- alarmes;
+- sensores;
+- controle de acesso;
+- automação;
+- notificações.
+
+
+ESCOLHA DE TECNOLOGIA:
+
+A tecnologia deve ser definida considerando:
+
+- aplicação;
+- confiabilidade;
+- compatibilidade;
+- manutenção;
+- expansão futura.
+
+
+ERROS A EVITAR:
+
+A Proelium não deve:
+
+- instalar equipamentos sem análise do ambiente;
+- definir quantidade de câmeras sem levantamento;
+- priorizar apenas preço;
+- criar soluções sem possibilidade de expansão.
+
+
+RESULTADO ESPERADO:
+
+Criar sistemas de segurança confiáveis, integrados e adequados ao perfil de cada cliente.

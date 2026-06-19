@@ -1,0 +1,99 @@
+CATEGORIAS DE EQUIPAMENTOS
+BIBLIOTECA TÉCNICA PROELIUM
+
+
+OBJETIVO:
+
+Organizar os equipamentos utilizados como referência técnica pela Proelium Serviços.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+A biblioteca técnica deve organizar conhecimento de equipamentos e suas aplicações.
+
+Ela não representa uma lista automática de compra ou definição de projeto.
+
+
+CATEGORIAS PRINCIPAIS:
+
+
+AUTOMAÇÃO:
+
+Equipamentos relacionados a:
+
+- controladores;
+- módulos de acionamento;
+- interfaces;
+- sensores;
+- dispositivos inteligentes.
+
+
+REDES:
+
+Equipamentos relacionados a:
+
+- switches;
+- roteadores;
+- pontos de acesso;
+- controladores de rede;
+- infraestrutura.
+
+
+SEGURANÇA:
+
+Equipamentos relacionados a:
+
+- câmeras;
+- gravadores;
+- controle de acesso;
+- sensores;
+- alarmes.
+
+
+ÁUDIO E VÍDEO:
+
+Equipamentos relacionados a:
+
+- televisores;
+- projetores;
+- receivers;
+- caixas acústicas;
+- amplificadores.
+
+
+ELÉTRICA:
+
+Equipamentos relacionados a:
+
+- proteção elétrica;
+- quadros;
+- dispositivos de comando;
+- infraestrutura.
+
+
+CRITÉRIO DE CADASTRO:
+
+Cada equipamento cadastrado deve possuir:
+
+- categoria;
+- aplicação;
+- características técnicas;
+- limitações;
+- compatibilidades;
+- observações de instalação.
+
+
+REGRA DA N.E.M.O.:
+
+Antes de utilizar um equipamento da biblioteca analisar:
+
+- necessidade do cliente;
+- ambiente;
+- infraestrutura existente;
+- compatibilidade;
+- objetivo do projeto.
+
+
+RESULTADO ESPERADO:
+
+Criar uma biblioteca técnica organizada, permitindo que a N.E.M.O. utilize equipamentos como referência profissional e não como recomendação automática.

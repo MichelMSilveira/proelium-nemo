@@ -1,0 +1,108 @@
+PROCESSO DE CONSULTA AO CONHECIMENTO N.E.M.O.
+
+OBJETIVO
+
+Definir o fluxo utilizado pela N.E.M.O. para consultar informações internas da Proelium antes de gerar respostas.
+
+PRINCÍPIO
+
+A N.E.M.O. não deve responder apenas utilizando conhecimento geral.
+
+Ela deve priorizar o conhecimento próprio da Proelium.
+
+FLUXO DE CONSULTA
+
+ETAPA 1 — RECEBIMENTO
+
+A N.E.M.O. recebe:
+
+- pergunta;
+- solicitação;
+- comando;
+- análise técnica.
+
+ETAPA 2 — CLASSIFICAÇÃO
+
+Identificar o assunto:
+
+- empresa;
+- processos;
+- redes;
+- segurança;
+- automação;
+- áudio e vídeo;
+- equipamentos;
+- projetos.
+
+ETAPA 3 — BUSCA
+
+Pesquisar documentos relacionados:
+
+Exemplos:
+
+Pergunta sobre Wi-Fi:
+
+Consultar:
+
+- 04_REDES;
+- 07_EQUIPAMENTOS;
+- regras técnicas.
+
+Pergunta sobre orçamento:
+
+Consultar:
+
+- processos;
+- levantamento técnico;
+- dimensionamento.
+
+ETAPA 4 — ANÁLISE
+
+Relacionar informações encontradas:
+
+- necessidade do cliente;
+- padrão Proelium;
+- equipamentos adequados;
+- limitações técnicas.
+
+ETAPA 5 — RESPOSTA
+
+Gerar resposta contendo:
+
+- análise;
+- recomendação;
+- justificativa;
+- próximos passos.
+
+CONTROLE DE CONFIABILIDADE
+
+Quando não encontrar informação:
+
+A N.E.M.O. deve informar:
+
+"Não encontrei essa informação na base de conhecimento da Proelium."
+
+Não deve inventar dados técnicos.
+
+EVOLUÇÃO FUTURA
+
+A consulta poderá utilizar:
+
+- leitura automática de documentos;
+- embeddings;
+- banco vetorial;
+- RAG (Retrieval Augmented Generation).
+
+OBJETIVO DO RAG
+
+Permitir que a IA utilize documentos próprios da Proelium como fonte de conhecimento.
+
+REGRA OPERACIONAL
+
+Toda resposta técnica deve seguir:
+
+Consultar → Analisar → Responder.
+
+RESULTADO ESPERADO
+
+Uma assistente que responde baseada na experiência e nos padrões da Proelium.

@@ -1,0 +1,122 @@
+EQUIPAMENTOS DE SEGURANÇA
+BIBLIOTECA TÉCNICA PROELIUM
+
+
+OBJETIVO:
+
+Definir os critérios técnicos para análise de equipamentos de segurança utilizados como referência pela Proelium Serviços.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Sistemas de segurança devem ser planejados considerando confiabilidade, cobertura adequada, integração e facilidade de gerenciamento.
+
+
+APLICAÇÕES:
+
+Equipamentos de segurança podem ser utilizados em:
+
+- residências;
+- condomínios;
+- escritórios;
+- ambientes comerciais;
+- áreas externas.
+
+
+TIPOS DE EQUIPAMENTOS:
+
+
+CÂMERAS IP:
+
+Avaliar:
+
+- ambiente de instalação;
+- campo de visão;
+- iluminação;
+- resolução necessária;
+- infraestrutura de rede;
+- armazenamento.
+
+
+GRAVADORES:
+
+Avaliar:
+
+- quantidade de câmeras;
+- capacidade de armazenamento;
+- recursos de gerenciamento;
+- acesso remoto;
+- compatibilidade.
+
+
+CONTROLE DE ACESSO:
+
+Avaliar:
+
+- tipo de acesso;
+- quantidade de usuários;
+- integração;
+- segurança necessária;
+- expansão futura.
+
+
+SENSORES E ALARMES:
+
+Avaliar:
+
+- aplicação;
+- ambiente;
+- confiabilidade;
+- integração com automação.
+
+
+INFRAESTRUTURA:
+
+Considerar:
+
+- cabeamento;
+- alimentação elétrica;
+- rede;
+- proteção;
+- manutenção.
+
+
+INTEGRAÇÃO:
+
+Equipamentos de segurança podem integrar:
+
+- automação residencial;
+- controle de acesso;
+- notificações;
+- monitoramento remoto.
+
+
+CRITÉRIOS DE ESCOLHA:
+
+Antes de recomendar equipamentos analisar:
+
+- risco do ambiente;
+- objetivo do cliente;
+- infraestrutura existente;
+- necessidade de expansão.
+
+
+REGRA DA N.E.M.O.:
+
+Equipamentos cadastrados são referências técnicas.
+
+A escolha final depende do levantamento técnico.
+
+
+A N.E.M.O. nunca deve apresentar:
+
+- câmera obrigatória;
+- quantidade definitiva;
+- modelo fechado;
+
+sem análise do projeto.
+
+
+RESULTADO ESPERADO:
+
+Criar sistemas de segurança confiáveis, integrados e preparados para as necessidades do cliente.

@@ -1,0 +1,109 @@
+PROCESSO DE DESENVOLVIMENTO DE PROJETO - PROELIUM SERVIÇOS
+
+
+OBJETIVO:
+
+Definir a metodologia utilizada pela Proelium Serviços para transformar informações coletadas no levantamento técnico em uma solução tecnológica planejada.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Um projeto profissional não começa pela escolha de equipamentos.
+
+O projeto deve começar pela compreensão das necessidades do cliente, análise da infraestrutura e definição da arquitetura da solução.
+
+
+ETAPA 1 - ANÁLISE DAS INFORMAÇÕES:
+
+Após o levantamento técnico, devem ser analisados:
+
+- ambiente;
+- necessidades do cliente;
+- infraestrutura existente;
+- sistemas atuais;
+- limitações técnicas;
+- possibilidades futuras.
+
+
+ETAPA 2 - DEFINIÇÃO DOS OBJETIVOS:
+
+Definir claramente:
+
+- o que o cliente deseja controlar;
+- quais sistemas serão integrados;
+- qual experiência deve ser entregue;
+- quais requisitos são obrigatórios.
+
+
+ETAPA 3 - DEFINIÇÃO DA ARQUITETURA:
+
+A arquitetura deve considerar:
+
+- estabilidade;
+- segurança;
+- compatibilidade;
+- facilidade de manutenção;
+- possibilidade de expansão.
+
+
+A solução deve ser pensada como um sistema integrado, não como equipamentos individuais.
+
+
+ETAPA 4 - ANÁLISE TÉCNICA:
+
+Avaliar:
+
+- infraestrutura elétrica;
+- rede de dados;
+- comunicação entre sistemas;
+- localização dos equipamentos;
+- necessidade de programação;
+- documentação necessária.
+
+
+ETAPA 5 - SELEÇÃO DE TECNOLOGIAS:
+
+As tecnologias devem ser escolhidas considerando:
+
+- aplicação;
+- confiabilidade;
+- compatibilidade;
+- suporte;
+- vida útil;
+- necessidade do cliente.
+
+
+A Proelium não escolhe equipamentos apenas por preço ou popularidade.
+
+
+ETAPA 6 - DOCUMENTAÇÃO DO PROJETO:
+
+O projeto deve registrar:
+
+- arquitetura definida;
+- sistemas envolvidos;
+- premissas técnicas;
+- infraestrutura necessária;
+- orientações de instalação.
+
+
+ERROS QUE DEVEM SER EVITADOS:
+
+A Proelium não deve:
+
+- iniciar projeto pela lista de equipamentos;
+- copiar soluções de outros ambientes;
+- definir equipamentos sem contexto;
+- ignorar expansão futura.
+
+
+RESULTADO ESPERADO:
+
+O projeto deve entregar uma solução organizada, confiável e preparada para funcionamento a longo prazo.
+
+
+PRINCÍPIO FINAL:
+
+A Proelium não vende equipamentos isolados.
+
+A Proelium desenvolve soluções tecnológicas integradas.

@@ -1,0 +1,109 @@
+EQUIPAMENTOS DE ENERGIA ELÉTRICA
+BIBLIOTECA TÉCNICA PROELIUM
+
+
+OBJETIVO:
+
+Definir os critérios técnicos para análise de equipamentos elétricos utilizados como referência pela Proelium Serviços.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+A infraestrutura elétrica é a base de confiabilidade dos sistemas tecnológicos, automação, segurança e áudio/vídeo.
+
+
+APLICAÇÕES:
+
+Equipamentos elétricos podem atender:
+
+- automação residencial;
+- redes;
+- segurança;
+- áudio e vídeo;
+- infraestrutura tecnológica.
+
+
+TIPOS DE EQUIPAMENTOS:
+
+
+DISPOSITIVOS DE PROTEÇÃO:
+
+Avaliar:
+
+- proteção contra surtos;
+- segurança dos equipamentos;
+- compatibilidade elétrica;
+- aplicação.
+
+
+FONTES DE ALIMENTAÇÃO:
+
+Avaliar:
+
+- tensão;
+- corrente;
+- estabilidade;
+- compatibilidade.
+
+
+NOBREAKS E SISTEMAS DE CONTINUIDADE:
+
+Avaliar:
+
+- potência necessária;
+- tempo de autonomia;
+- equipamentos protegidos;
+- ambiente.
+
+
+QUADROS E ORGANIZAÇÃO ELÉTRICA:
+
+Avaliar:
+
+- organização;
+- identificação;
+- segurança;
+- facilidade de manutenção.
+
+
+DISPOSITIVOS DE COMANDO:
+
+Avaliar:
+
+- aplicação;
+- capacidade;
+- integração;
+- confiabilidade.
+
+
+CRITÉRIOS DE ESCOLHA:
+
+Antes de utilizar equipamentos analisar:
+
+- carga elétrica;
+- ambiente;
+- necessidade do sistema;
+- normas aplicáveis;
+- possibilidade de expansão.
+
+
+INTEGRAÇÃO:
+
+A parte elétrica deve considerar:
+
+- automação;
+- redes;
+- segurança;
+- equipamentos audiovisuais.
+
+
+REGRA DA N.E.M.O.:
+
+Equipamentos elétricos são referências técnicas.
+
+Nenhuma solução deve ser definida sem análise da infraestrutura existente.
+
+
+RESULTADO ESPERADO:
+
+Criar instalações seguras, organizadas e preparadas para sistemas tecnológicos de alto padrão.

@@ -1,0 +1,81 @@
+INFRAESTRUTURA DE ÁUDIO E VÍDEO
+PADRÃO PROELIUM
+
+
+OBJETIVO:
+
+Definir os princípios utilizados pela Proelium Serviços para planejamento da infraestrutura necessária para sistemas profissionais de áudio e vídeo.
+
+
+PRINCÍPIO FUNDAMENTAL:
+
+Uma solução audiovisual confiável depende de uma infraestrutura corretamente planejada antes da instalação dos equipamentos.
+
+
+PLANEJAMENTO DA INFRAESTRUTURA:
+
+Antes da instalação avaliar:
+
+- localização dos equipamentos;
+- pontos de conexão;
+- cabeamento necessário;
+- alimentação elétrica;
+- espaço técnico;
+- possibilidade de manutenção.
+
+
+CABEAMENTO:
+
+Considerar:
+
+- tipo de sinal transmitido;
+- distância entre equipamentos;
+- organização dos cabos;
+- identificação;
+- possibilidade de expansão futura.
+
+
+RACK E ORGANIZAÇÃO:
+
+Quando aplicável, considerar:
+
+- organização dos equipamentos;
+- ventilação;
+- identificação;
+- acesso para manutenção;
+- distribuição de energia.
+
+
+INTEGRAÇÃO COM REDE:
+
+Sistemas audiovisuais modernos podem depender de:
+
+- rede cabeada;
+- Wi-Fi profissional;
+- comunicação entre equipamentos;
+- acesso remoto.
+
+
+OBRA E PREPARAÇÃO:
+
+O planejamento deve considerar:
+
+- fase da construção;
+- passagem de infraestrutura;
+- compatibilidade com arquitetura;
+- posicionamento dos equipamentos.
+
+
+ERROS A EVITAR:
+
+A Proelium não deve:
+
+- instalar sistemas sem infraestrutura adequada;
+- deixar cabeamento sem identificação;
+- ignorar manutenção futura;
+- definir equipamentos antes de avaliar o ambiente.
+
+
+RESULTADO ESPERADO:
+
+Criar uma infraestrutura organizada, confiável e preparada para receber sistemas de áudio e vídeo de alto padrão.
