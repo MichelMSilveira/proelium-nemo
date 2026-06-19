@@ -8,9 +8,17 @@
 
 
 
-Versão: 0.5.0  
+Versão: 0.6.0  
 
-Projeto: Proelium Serviços
+Status: Documento Estratégico Vivo  
+
+Última atualização: 19/06/2026  
+
+
+
+Projeto:
+
+Proelium Serviços
 
 
 
@@ -22,15 +30,15 @@ Projeto: Proelium Serviços
 
 
 
-A N.E.M.O. (Núcleo de Engenharia e Memória Operacional) é uma plataforma de inteligência artificial desenvolvida para atuar como o núcleo inteligente de apoio operacional da Proelium Serviços.
+A N.E.M.O. (Núcleo de Engenharia e Memória Operacional) é uma plataforma de inteligência operacional baseada em inteligência artificial, desenvolvida para atuar como núcleo inteligente de apoio à Proelium Serviços.
 
 
 
-Seu objetivo é transformar conhecimento técnico, experiência profissional, processos empresariais e informações estratégicas em uma inteligência organizada, acessível e evolutiva.
+Seu objetivo é transformar conhecimento técnico, experiência profissional, processos empresariais e informações estratégicas em uma inteligência organizada, acessível, segura e evolutiva.
 
 
 
-A N.E.M.O. representa a união entre engenharia, tecnologia, automação e inteligência artificial.
+A N.E.M.O. representa a integração entre engenharia, tecnologia, automação, desenvolvimento de software e inteligência artificial.
 
 
 
@@ -42,7 +50,7 @@ A N.E.M.O. representa a união entre engenharia, tecnologia, automação e intel
 
 
 
-Criar uma inteligência operacional capaz de auxiliar a Proelium em suas principais áreas:
+Criar uma inteligência operacional capaz de auxiliar a Proelium Serviços em suas principais áreas:
 
 
 
@@ -62,7 +70,9 @@ Criar uma inteligência operacional capaz de auxiliar a Proelium em suas princip
 
 \- Comunicação;
 
-\- Planejamento estratégico.
+\- Planejamento estratégico;
+
+\- Organização do conhecimento.
 
 
 
@@ -74,11 +84,11 @@ Criar uma inteligência operacional capaz de auxiliar a Proelium em suas princip
 
 
 
-A N.E.M.O. tem como visão tornar-se a principal assistente inteligente da Proelium, apoiando decisões, organizando conhecimento e aumentando a eficiência operacional da empresa.
+A N.E.M.O. tem como visão tornar-se a principal assistente inteligente da Proelium Serviços, apoiando decisões, organizando conhecimento e aumentando a eficiência operacional da empresa.
 
 
 
-Ela deverá funcionar como uma extensão digital da experiência acumulada pela equipe.
+Ela deverá funcionar como uma extensão digital da experiência acumulada pela equipe, permitindo acesso inteligente às informações e auxiliando na evolução contínua dos processos.
 
 
 
@@ -90,7 +100,7 @@ Ela deverá funcionar como uma extensão digital da experiência acumulada pela 
 
 
 
-A N.E.M.O. será responsável por auxiliar:
+A N.E.M.O. será responsável por auxiliar diferentes áreas estratégicas da Proelium:
 
 
 
@@ -106,7 +116,9 @@ A N.E.M.O. será responsável por auxiliar:
 
 \- dimensionamentos;
 
-\- padrões de instalação.
+\- padrões de instalação;
+
+\- apoio à tomada de decisões técnicas.
 
 
 
@@ -120,7 +132,9 @@ A N.E.M.O. será responsável por auxiliar:
 
 \- atendimento;
 
-\- organização de tarefas.
+\- organização de tarefas;
+
+\- padronização operacional.
 
 
 
@@ -132,7 +146,9 @@ A N.E.M.O. será responsável por auxiliar:
 
 \- análise de informações;
 
-\- organização administrativa.
+\- organização administrativa;
+
+\- planejamento estratégico.
 
 
 
@@ -146,7 +162,9 @@ A N.E.M.O. será responsável por auxiliar:
 
 \- apresentações;
 
-\- materiais comerciais.
+\- materiais comerciais;
+
+\- posicionamento de marca.
 
 
 
@@ -172,7 +190,7 @@ A N.E.M.O. será responsável por auxiliar:
 
 
 
-\## Conhecimento estruturado
+\## Conhecimento Estruturado
 
 
 
@@ -180,11 +198,11 @@ Todo conhecimento deve ser organizado, documentado e versionado.
 
 
 
-\## Evolução contínua
+\## Evolução Contínua
 
 
 
-A N.E.M.O. deve melhorar constantemente através de novos conhecimentos e melhorias técnicas.
+A N.E.M.O. deve melhorar constantemente através de novos conhecimentos, tecnologias e melhorias de processos.
 
 
 
@@ -192,7 +210,7 @@ A N.E.M.O. deve melhorar constantemente através de novos conhecimentos e melhor
 
 
 
-Informações estratégicas da empresa devem ser protegidas.
+Informações estratégicas da empresa devem ser protegidas e administradas de forma responsável.
 
 
 
@@ -200,7 +218,7 @@ Informações estratégicas da empresa devem ser protegidas.
 
 
 
-A arquitetura e documentação devem seguir padrões utilizados em desenvolvimento de software.
+A arquitetura, documentação e desenvolvimento devem seguir padrões utilizados em projetos profissionais de software.
 
 
 
@@ -220,7 +238,7 @@ A N.E.M.O. é composta por camadas:
 
 
 
-Responsável pelo armazenamento das informações da empresa.
+Responsável pelo armazenamento estruturado das informações da empresa.
 
 
 
@@ -234,7 +252,9 @@ Exemplos:
 
 \- metodologias;
 
-\- padrões técnicos.
+\- padrões técnicos;
+
+\- documentação empresarial.
 
 
 
@@ -246,7 +266,7 @@ Exemplos:
 
 
 
-Responsável pelo processamento das informações.
+Responsável pelo processamento e interpretação das informações.
 
 
 
@@ -256,9 +276,11 @@ Tecnologias:
 
 \- modelos de inteligência artificial;
 
-\- processamento de linguagem;
+\- processamento de linguagem natural;
 
-\- memória contextual.
+\- memória contextual;
+
+\- sistemas de recuperação de conhecimento.
 
 
 
@@ -284,7 +306,9 @@ Possíveis integrações:
 
 \- softwares empresariais;
 
-\- sistemas internos.
+\- sistemas internos;
+
+\- plataformas digitais.
 
 
 
@@ -296,7 +320,7 @@ Possíveis integrações:
 
 
 
-A N.E.M.O. seguirá práticas profissionais:
+A N.E.M.O. seguirá práticas profissionais de desenvolvimento:
 
 
 
@@ -308,7 +332,9 @@ A N.E.M.O. seguirá práticas profissionais:
 
 \- organização modular;
 
-\- segurança de dados.
+\- segurança de dados;
+
+\- melhoria contínua.
 
 
 
@@ -316,37 +342,37 @@ A N.E.M.O. seguirá práticas profissionais:
 
 
 
-\# 8. Histórico
+\# 8. Histórico de Evolução
 
 
 
-Movimento 1:
+\## Movimento 1
 
 Fundação da N.E.M.O.
 
 
 
-Movimento 2:
+\## Movimento 2
 
 Construção da Base de Conhecimento.
 
 
 
-Movimento 3:
+\## Movimento 3
 
 Desenvolvimento da Inteligência e Engenharia.
 
 
 
-Movimento 4:
+\## Movimento 4
 
 Integração do Assistente Inteligente.
 
 
 
-Movimento 5:
+\## Movimento 5
 
-Profissionalização com GitHub.
+Profissionalização com GitHub e controle de versão.
 
 
 
@@ -354,11 +380,139 @@ Profissionalização com GitHub.
 
 
 
-\# 9. Responsável pelo Projeto
+\# 9. Participantes e Liderança do Projeto
 
 
 
-Michel Silveira
+\## Michel Silveira
+
+
+
+Fundador da N.E.M.O. e responsável pela concepção inicial do projeto.
+
+
+
+Responsabilidades:
+
+
+
+\- criação da visão inicial;
+
+\- definição da arquitetura;
+
+\- direcionamento técnico;
+
+\- integração entre tecnologia e processos da Proelium;
+
+\- construção inicial da base de conhecimento.
+
+
+
+\---
+
+
+
+\## Natália Silveira
+
+
+
+Participante oficial e coautora da evolução estratégica e tecnológica da N.E.M.O.
+
+
+
+Formação:
+
+
+
+Ciência da Computação.
+
+
+
+Responsabilidades:
+
+
+
+\- participação no desenvolvimento da N.E.M.O.;
+
+\- contribuição técnica e estratégica;
+
+\- análise e evolução de sistemas;
+
+\- organização documental;
+
+\- pesquisa e desenvolvimento tecnológico.
+
+
+
+\---
+
+
+
+\# 10. Evolução Estratégica
+
+
+
+A N.E.M.O. tem como objetivo evoluir para uma inteligência operacional integrada à Proelium Serviços.
+
+
+
+Sua evolução contempla:
+
+
+
+\- suporte à tomada de decisões;
+
+\- organização empresarial;
+
+\- apoio técnico;
+
+\- análise de informações;
+
+\- integração com sistemas;
+
+\- melhoria contínua dos processos.
+
+
+
+\---
+
+
+
+\# 11. Identidade do Projeto
+
+
+
+A N.E.M.O. representa a construção de uma inteligência operacional própria da Proelium Serviços.
+
+
+
+Seu desenvolvimento é baseado em:
+
+
+
+\- colaboração;
+
+\- conhecimento compartilhado;
+
+\- engenharia;
+
+\- inovação;
+
+\- aprendizado contínuo.
+
+
+
+\---
+
+
+
+Responsáveis pelo Projeto:
+
+
+
+Michel Silveira  
+
+Natália Silveira  
 
 
 
