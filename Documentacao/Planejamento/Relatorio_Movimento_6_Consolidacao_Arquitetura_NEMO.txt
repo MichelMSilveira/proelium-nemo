@@ -7,7 +7,7 @@ EMPRESA:
 Proelium Serviços
 
 MOVIMENTO:
-Movimento 6 — Consolidação da Arquitetura e Fundação do Sistema Inteligente
+Movimento 6 — Consolidação da Arquitetura e Evolução do Sistema Inteligente
 
 STATUS:
 INICIADO
@@ -56,6 +56,7 @@ Este movimento contempla:
 DOCUMENTOS RELACIONADOS
 ==================================================
 
+
 Arquitetura:
 
 Documentacao/Arquitetura/ARCHITECTURE.md
@@ -72,6 +73,52 @@ Documentacao/Estrategia/Participantes_e_Governanca_NEMO.md
 
 
 ==================================================
+ESTADO ATUAL DO SISTEMA
+==================================================
+
+A N.E.M.O. possui atualmente uma arquitetura funcional
+composta por:
+
+- modelo de inteligência artificial local gerenciado através do Ollama;
+- memória semântica utilizando ChromaDB;
+- base de conhecimento estruturada da Proelium;
+- sistema de recuperação de informações;
+- núcleo do assistente através do nemo.py;
+- regras de governança e comportamento da inteligência.
+
+
+Fluxo atual:
+
+
+Usuário
+
+↓
+
+N.E.M.O.
+
+↓
+
+Consulta da memória
+
+↓
+
+Base de Conhecimento Proelium
+
+↓
+
+Processamento inteligente
+
+↓
+
+Resposta técnica
+
+
+O Movimento 6 tem como objetivo consolidar esta arquitetura,
+melhorando organização, segurança, escalabilidade e capacidade
+de integração futura.
+
+
+==================================================
 OBJETIVO TÉCNICO
 ==================================================
 
@@ -80,10 +127,10 @@ inteligente integrada à Proelium Serviços.
 
 Possíveis evoluções:
 
-- inteligência artificial local;
-- memória avançada;
-- RAG;
-- integração Ollama;
+- inteligência artificial local aprimorada;
+- evolução da memória semântica;
+- implementação de arquitetura RAG;
+- expansão das integrações com o ambiente Ollama;
 - interface de voz;
 - integração com automação residencial e comercial;
 - apoio operacional empresarial.
@@ -126,7 +173,7 @@ Movimento 5 — Profissionalização com GitHub
 CONCLUÍDO
 
 
-Movimento 6 — Consolidação da Arquitetura e Fundação do Sistema Inteligente
+Movimento 6 — Consolidação da Arquitetura e Evolução do Sistema Inteligente
 INICIADO
 
 
