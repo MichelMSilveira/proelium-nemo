@@ -13,7 +13,7 @@ cliente = chromadb.PersistentClient(
 
 funcao_embedding = embedding_functions.OllamaEmbeddingFunction(
     model_name="nomic-embed-text",
-    url="http://localhost:11434/api/embeddings"
+    url="http://localhost:11434"
 )
 
 

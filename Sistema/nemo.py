@@ -4,7 +4,7 @@ from chromadb.utils import embedding_functions
 
 # Configuração da memória Proelium
 cliente = chromadb.PersistentClient(
-    path="conhecimento.db"
+    path="G:\\NEMO\\Sistema\\conhecimento.db"
 )
 
 embedding = embedding_functions.OllamaEmbeddingFunction(
