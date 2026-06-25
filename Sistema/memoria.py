@@ -35,27 +35,32 @@ documentos = []
 nomes = []
 
 
-for arquivo in sorted(os.listdir(PASTA_CONHECIMENTO)):
+documentos = []
+nomes = []
 
-    if arquivo.endswith(".txt"):
+for raiz, pastas, arquivos in os.walk(PASTA_CONHECIMENTO):
 
-        caminho = os.path.join(PASTA_CONHECIMENTO, arquivo)
+    for arquivo in sorted(arquivos):
 
-        with open(caminho, "r", encoding="utf-8") as f:
-            texto = f.read().strip()
+        if arquivo.endswith(".txt"):
 
+            caminho = os.path.join(raiz, arquivo)
 
-        if texto:
-            documentos.append(texto)
-            nomes.append(arquivo)
+            with open(caminho, "r", encoding="utf-8") as f:
+                texto = f.read().strip()
 
+            if texto:
 
-if documentos:
+                caminho_relativo = os.path.relpath(
+                    caminho,
+                    PASTA_CONHECIMENTO
+                )
 
-    colecao.add(
-        documents=documentos,
-        ids=nomes
-    )
+                documentos.append(texto)
+
+                nomes.append(
+                    caminho_relativo.replace("\\", "_")
+                )
 
 
     print("==============================")
