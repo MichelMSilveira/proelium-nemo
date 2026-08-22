@@ -32,6 +32,7 @@ $Arquivos = @(
     @{ Origem = 'docs\DECISIONS.md'; Destino = 'docs\DECISIONS.md' },
     @{ Origem = 'docs\KNOWLEDGE.md'; Destino = 'docs\KNOWLEDGE.md' },
     @{ Origem = 'docs\SESSION.md'; Destino = 'docs\SESSION.md' },
+    @{ Origem = 'docs\WORKLOG.md'; Destino = 'docs\WORKLOG.md' },
     @{ Origem = '.continue\rules\projeto.md'; Destino = '.continue\rules\projeto.md' }
 )
 
@@ -50,4 +51,5 @@ foreach ($Arquivo in $Arquivos) {
 
 Write-Host ''
 Write-Host 'Estrutura base criada sem sobrescrever arquivos existentes.'
-Write-Host 'Proximo passo: preencher PROJECT.md e docs\STATUS.md.'
+Write-Host 'Metricas de projeto ativadas via docs\WORKLOG.md.'
+Write-Host 'Proximo passo: preencher PROJECT.md, docs\STATUS.md e configurar as metricas iniciais no WORKLOG.'
