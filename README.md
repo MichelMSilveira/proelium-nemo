@@ -1,380 +1,235 @@
-# 🧠 N.E.M.O.
+# N.E.M.O.
 
-# Núcleo de Engenharia e Memória Operacional
+## Nucleo de Engenharia e Memoria Operacional
 
-
-
-<p align="center">
-
-Assistente inteligente de engenharia, conhecimento técnico e automação.
-
-</p>
-
-
+Assistente inteligente local para engenharia, conhecimento tecnico, organizacao de projetos e desenvolvimento assistido por IA.
 
 ---
 
+# Visao Geral
 
+A **N.E.M.O. (Nucleo de Engenharia e Memoria Operacional)** e uma plataforma de inteligencia artificial local criada para organizar conhecimento, apoiar decisoes tecnicas, auxiliar desenvolvimento e preservar contexto entre sessoes e projetos.
 
-# 📌 Visão Geral
+O projeto nasceu dentro da Proelium Servicos, mas sua arquitetura atual e **multi-projeto**. A N.E.M.O. fornece metodo, memoria e regras de trabalho; cada repositorio fornece seu proprio contexto, conhecimento, processos e regras de negocio.
 
-
-
-A \*\*N.E.M.O. (Núcleo de Engenharia e Memória Operacional)\*\* é uma plataforma de inteligência artificial desenvolvida para atuar como um assistente técnico inteligente, capaz de organizar conhecimento, auxiliar processos de engenharia e integrar informações relacionadas à infraestrutura, automação e tecnologia.
-
-
-
-O projeto nasceu dentro da \*\*Proelium Serviços\*\*, com o objetivo de criar uma inteligência auxiliar capaz de apoiar decisões técnicas, documentação, projetos e operação.
-
-
+A N.E.M.O. nunca deve transportar automaticamente regras, identidade, dados ou processos de um projeto para outro.
 
 ---
 
+# Principios centrais
 
-
-# 🎯 Missão
-
-
-
-Criar um sistema inteligente que una:
-
-
-
-- Engenharia;
-
-- Automação residencial e comercial;
-
-- Redes profissionais;
-
-- Segurança eletrônica;
-
-- Áudio e vídeo;
-
-- Documentação técnica;
-
-- Inteligência artificial.
-
-
+- Cada projeto e uma fonte de verdade independente.
+- Informacao confirmada, inferencia, hipotese e sugestao sao categorias diferentes.
+- Suposicoes nunca devem ser registradas como fatos.
+- O contexto deve ser carregado de forma progressiva e apenas quando necessario.
+- Decisoes importantes devem ser documentadas com seu motivo.
+- Projetos devem possuir um estado curto e atualizado para facilitar retomadas.
+- Alteracoes devem ser pequenas, reversiveis, testaveis e documentadas.
+- Segredos, senhas, tokens, chaves e dados privados nao devem ser versionados.
 
 ---
 
+# Arquitetura conceitual
 
+```text
+                    N.E.M.O.
+                       |
+        +--------------+--------------+
+        |              |              |
+   Metodo global   Memoria/IA    Padrao de projetos
+        |              |              |
+        +--------------+--------------+
+                       |
+          Contexto do projeto ativo
+                       |
+       +---------------+---------------+
+       |               |               |
+   Proelium         Jurandi       Outros projetos
+   Operacional
+```
 
-# 🏗️ Arquitetura do Projeto
-
-
-
-&#x20;               N.E.M.O.
-
-
-
-&#x20;                  │
-
-
-
-&#x20;   ┌──────────┼─────────────────┐
-
-
-
-&#x20;   │              │                     │
-
-&#x20;   │              │                     │
-
-&#x20;
-
-&#x20;   └────── Memória Inteligente  ────┘
-
-
-
-&#x20;                  │
-
-
-
-&#x20;         Assistente Inteligente
-
-
-
-&#x20;                  │
-
-
-
-&#x20;   Integração com Automação e Voz
-
-
-
-
+A camada global define **como trabalhar**. O repositorio ativo define **com o que trabalhar**.
 
 ---
 
+# Padrao de projetos assistidos por IA
 
+O diretorio `PadraoProjetos/` contem a estrutura reutilizavel para projetos novos e para normalizar projetos ja existentes.
 
-# 📂 Estrutura Atual
+Estrutura recomendada:
 
+```text
+projeto/
+|-- AGENTS.md
+|-- PROJECT.md
+|-- README.md
+|-- docs/
+|   |-- STATUS.md
+|   |-- REQUIREMENTS.md
+|   |-- DECISIONS.md
+|   |-- KNOWLEDGE.md
+|   `-- SESSION.md
+|-- .continue/
+|   `-- rules/
+|       `-- projeto.md
+`-- src/ ou estrutura nativa do projeto
+```
 
+## Ordem de contexto
 
+1. `AGENTS.md`
+2. `PROJECT.md`
+3. `docs/STATUS.md`
+4. arquivos diretamente relacionados a tarefa
+5. `REQUIREMENTS.md`, `DECISIONS.md` e `KNOWLEDGE.md` apenas quando necessarios
 
-
-
-NEMO
-
-
-
-├── Conhecimento
-
-│ ├── Empresa
-
-│ ├── Processos
-
-│ ├── Automação
-
-│ ├── Redes
-
-│ ├── Segurança
-
-│ ├── Áudio e Vídeo
-
-│ ├── Equipamentos
-
-│ ├── Projetos
-
-│ └── Integração IA
-
-
-
-├── Sistema
-
-│ ├── Memória
-
-│ ├── Assistente
-
-│ ├── Testes
-
-│ └── Backups
-
-
-
-├── Documentacao
-
-│ └── Movimentos de Desenvolvimento
-
-
-
-└── Modelfile
-
-
-
-
-
-
-
-
+Essa ordem evita carregar o repositorio inteiro e reduz perda de contexto em sessoes longas.
 
 ---
 
+# Estrutura da N.E.M.O.
 
-# ⚙️ Tecnologias
+```text
+NEMO/
+|-- Conhecimento/
+|-- Documentacao/
+|-- Sistema/
+|-- PadraoProjetos/
+|-- Modelfile
+`-- README.md
+```
 
+## Conhecimento
 
+Mantem bases tecnicas e empresariais quando forem explicitamente necessarias. Conhecimento de uma empresa ou cliente nao e automaticamente global.
 
-## Inteligência Artificial
+## Sistema
 
+Contem componentes relacionados a memoria, assistente, testes e operacao da N.E.M.O.
 
+## PadraoProjetos
+
+Define as regras e arquivos-modelo para iniciar, documentar, retomar e evoluir projetos assistidos por IA.
+
+---
+
+# Tecnologias
+
+## Inteligencia Artificial
 
 - Ollama
-
-- Modelos de linguagem locais
-
-- Memória baseada em conhecimento
-
-
+- modelos de linguagem locais
+- memoria baseada em arquivos e conhecimento estruturado
+- contexto progressivo por projeto
 
 ## Desenvolvimento
 
-
-
 - Python
-
 - Git
-
 - GitHub
-
-
-
-## Infraestrutura
-
-
-
-- Redes profissionais
-
-- Automação residencial
-
-- Integração de sistemas
-
-
+- VS Code / Continue
 
 ---
 
+# Fluxo recomendado
 
+## Novo projeto
 
-# 📚 Histórico de Desenvolvimento
+```text
+Criar repositorio
+      |
+Aplicar PadraoProjetos
+      |
+Definir PROJECT.md
+      |
+Executar discovery
+      |
+Registrar requisitos
+      |
+Definir arquitetura
+      |
+Implementar
+```
 
+## Retomar projeto
 
-## Movimento 1
+```text
+Abrir repositorio
+      |
+Ler AGENTS.md
+      |
+Ler PROJECT.md
+      |
+Ler STATUS.md
+      |
+Consultar SESSION.md se necessario
+      |
+Continuar a partir do proximo passo registrado
+```
 
-### Fundação da N.E.M.O.
+## Encerrar sessao
 
-
-
-Criação da identidade inicial e conceito do assistente.
-
-
-
----
-
-
-
-## Movimento 2
-
-### Base de Conhecimento Proelium
-
-
-
-Organização do conhecimento técnico e empresarial.
-
-
-
----
-
-
-
-## Movimento 3
-
-### Inteligência e Engenharia
-
-
-
-Desenvolvimento da lógica do sistema e memória.
-
+Atualizar o estado do projeto, registrar decisoes relevantes, registrar pendencias e deixar um proximo passo claro antes de encerrar uma etapa importante.
 
 ---
 
+# Historico de evolucao
 
+## Movimento 1 - Fundacao da N.E.M.O.
 
-## Movimento 4
+Criacao da identidade inicial e conceito do assistente.
 
-### Integração do Assistente Inteligente
+## Movimento 2 - Base de Conhecimento Proelium
 
+Organizacao inicial do conhecimento tecnico e empresarial.
 
+## Movimento 3 - Inteligencia e Engenharia
 
-Integração inicial entre conhecimento, IA e consultas.
+Desenvolvimento da logica de memoria e apoio tecnico.
 
+## Movimento 4 - Integracao do Assistente
 
+Integracao inicial entre conhecimento, IA e consultas.
 
----
+## Movimento 5 - Profissionalizacao GitHub
 
+Implementacao de controle de versao e documentacao profissional.
 
+## Movimento 6 - Arquitetura Multi-Projeto
 
-## Movimento 5
-
-### Profissionalização GitHub
-
-
-
-Implementação de controle de versão profissional.
-
-
-
----
-
-
-
-# 🚀 Roadmap
-
-
-
-## Curto Prazo
-
-
-
-- \[ ] Melhorar memória inteligente
-
-- \[ ] Criar interface de interação
-
-- \[ ] Melhorar documentação
-
-- \[ ] Criar testes automatizados
-
-
-
-## Médio Prazo
-
-
-
-- [ ] Integração com voz
-
-- [ ] Integração com automação residencial
-
-- [ ] Controle de dispositivos inteligentes
-
-
-
-## Longo Prazo
-
-
-
-- [ ] N.E.M.O. como assistente completo de engenharia
-  
-- [ ] Inteligência operacional integrada
-
-- [ ] Plataforma própria Proelium
-
-
+Separacao entre regras globais da N.E.M.O. e contexto especifico de cada projeto, com padrao reutilizavel para criacao e retomada de projetos.
 
 ---
 
+# Roadmap
 
+## Curto prazo
 
-# 🧩 Filosofia do Projeto
+- [ ] consolidar protocolo de discovery
+- [ ] criar fluxo padrao iniciar / retomar / encerrar projeto
+- [ ] normalizar projetos ativos com o novo padrao
+- [ ] melhorar memoria inteligente
+- [ ] ampliar testes automatizados
 
+## Medio prazo
 
+- [ ] interface de interacao
+- [ ] integracao com voz
+- [ ] mecanismos de busca e recuperacao de conhecimento
+- [ ] automacoes de manutencao de contexto
 
-A N.E.M.O. não é apenas um software.
+## Longo prazo
 
-
-
-É uma arquitetura de conhecimento criada para transformar experiência técnica em inteligência operacional.
-
-
-
----
-
-
-
-# 👨‍💻 Desenvolvimento
-
-
-
-###*\*Michel Silveira\*\*  
-
-Proelium Serviços
-
-
-
-Projeto em evolução contínua.
-
-
+- [ ] N.E.M.O. como assistente completo de engenharia e desenvolvimento
+- [ ] inteligencia operacional integrada
+- [ ] suporte a multiplos projetos e empresas com isolamento de contexto
 
 ---
 
+# Filosofia
 
+A N.E.M.O. nao e o conhecimento de uma unica empresa.
 
-⭐ Projeto privado em desenvolvimento.
+Ela e a **arquitetura que organiza, protege e utiliza o conhecimento de cada projeto sem misturar suas fontes de verdade**.
 
-
-
-
-
-
-
-
-
+Projeto em evolucao continua.
