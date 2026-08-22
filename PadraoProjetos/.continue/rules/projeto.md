@@ -13,6 +13,15 @@ Estas regras complementam `AGENTS.md` e `PROJECT.md`. Regras especificas deste r
 3. Consultar `docs/SESSION.md` se houver tarefa interrompida.
 4. Ler somente os arquivos diretamente relacionados ao pedido atual.
 5. Consultar `docs/REQUIREMENTS.md`, `docs/DECISIONS.md` ou `docs/KNOWLEDGE.md` apenas quando forem relevantes.
+6. Confirmar que `docs/WORKLOG.md` existe e que as metricas iniciais do projeto estao configuradas.
+
+## Metricas e registro de trabalho
+- Todo projeto deve iniciar com controle de esforco ativo em `docs/WORKLOG.md`.
+- Registrar discovery, reunioes, pesquisa, planejamento, implementacao, testes, revisoes, deploy e documentacao.
+- Registrar data, etapa, atividade, responsavel, tempo gasto, entregavel/resultado, custo interno e observacoes quando aplicavel.
+- Separar sempre custo interno de preco cobrado ao cliente.
+- Registrar mudancas de escopo e retrabalho para permitir comparacao entre estimativa e realizado.
+- O valor/hora interno e referencia de gestao e nao deve ser tratado automaticamente como preco de venda.
 
 ## Disciplina de contexto
 - Nao carregar todo o repositorio automaticamente.
@@ -34,4 +43,5 @@ Estas regras complementam `AGENTS.md` e `PROJECT.md`. Regras especificas deste r
 - Registrar DECISIONS somente para escolhas que precisam sobreviver entre sessoes.
 
 ## Encerramento de sessao
-Se o trabalho nao terminar completamente, atualizar `docs/SESSION.md` com o proximo passo exato e os arquivos que precisam ser relidos.
+- Atualizar `docs/WORKLOG.md` com o trabalho executado na sessao.
+- Se o trabalho nao terminar completamente, atualizar `docs/SESSION.md` com o proximo passo exato e os arquivos que precisam ser relidos.
