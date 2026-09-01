@@ -43,6 +43,8 @@ As variáveis `NEMO_KNOWLEDGE_DIR`, `NEMO_DB_PATH`, `NEMO_COLLECTION`, `OLLAMA_U
 
 A fundação conceitual, a base de conhecimento Proelium, a memória semântica e o padrão multi-projeto já estão documentados. A interface, a recuperação de conhecimento e as automações ainda estão em evolução.
 
+O primeiro componente de inteligência operacional está em `Sistema/analise_operacional.py`. A função `analisar_dados(dados)` gera alertas de tarefas atrasadas, oportunidades paradas e compromissos do dia sem alterar a base recebida.
+
 ---
 
 # Visao Geral
