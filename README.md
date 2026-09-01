@@ -2,7 +2,42 @@
 
 ## Nucleo de Engenharia e Memoria Operacional
 
-Assistente inteligente local para engenharia, conhecimento tecnico, organizacao de projetos e desenvolvimento assistido por IA.
+Assistente inteligente local para engenharia, conhecimento técnico, organização de projetos e desenvolvimento assistido por IA.
+
+> Projeto público em evolução. A N.E.M.O. é uma base experimental de memória e método, não um produto acabado nem uma fonte automática de decisões.
+
+## Visão rápida
+
+A N.E.M.O. combina modelo local, recuperação semântica de documentos e regras de contexto para apoiar projetos sem misturar automaticamente o conhecimento de empresas, clientes ou repositórios diferentes.
+
+## Executar localmente
+
+Requisitos atuais:
+
+- Python;
+- Ollama em execução local;
+- modelo conversacional configurado no `Modelfile`;
+- `chromadb`, `requests` e a função de embeddings do Ollama.
+
+O fluxo principal está em `Sistema/`:
+
+1. preparar ou recriar a memória com `Sistema/memoria.py`;
+2. iniciar o assistente com `Sistema/nemo.py`;
+3. usar `sair` para encerrar a sessão.
+
+O arquivo `Iniciar_NEMO.bat` contém o atalho de inicialização usado no ambiente original. Os caminhos de memória e conhecimento ainda precisam ser configurados para cada máquina.
+
+## Segurança e isolamento
+
+- o modelo e a memória são locais;
+- cada projeto deve manter sua própria fonte de verdade;
+- regras, identidade, dados e processos não devem ser transferidos entre projetos sem validação;
+- senhas, tokens, chaves e bases privadas não devem ser versionados;
+- respostas devem diferenciar informação confirmada, inferência, hipótese e sugestão.
+
+## Estado atual
+
+A fundação conceitual, a base de conhecimento Proelium, a memória semântica e o padrão multi-projeto já estão documentados. A interface, a recuperação de conhecimento e as automações ainda estão em evolução.
 
 ---
 
