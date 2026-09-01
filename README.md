@@ -19,6 +19,8 @@ Requisitos atuais:
 - modelo conversacional configurado no `Modelfile`;
 - `chromadb`, `requests` e a função de embeddings do Ollama.
 
+Instale as dependências com `pip install -r requirements.txt` e disponibilize o modelo `nomic-embed-text` no Ollama.
+
 O fluxo principal está em `Sistema/`:
 
 1. preparar ou recriar a memória com `Sistema/memoria.py`;
@@ -26,6 +28,8 @@ O fluxo principal está em `Sistema/`:
 3. usar `sair` para encerrar a sessão.
 
 O arquivo `Iniciar_NEMO.bat` contém o atalho de inicialização usado no ambiente original. Os caminhos de memória e conhecimento ainda precisam ser configurados para cada máquina.
+
+As variáveis `NEMO_KNOWLEDGE_DIR`, `NEMO_DB_PATH`, `NEMO_COLLECTION`, `OLLAMA_URL` e `NEMO_EMBEDDING_MODEL` permitem ajustar o ambiente sem editar o código.
 
 ## Segurança e isolamento
 

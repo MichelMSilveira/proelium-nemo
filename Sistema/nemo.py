@@ -1,19 +1,20 @@
+import os
 import requests
 import chromadb
 from chromadb.utils import embedding_functions
 
 # Configuração da memória Proelium
 cliente = chromadb.PersistentClient(
-    path="G:\\NEMO\\Sistema\\conhecimento.db"
+    path=os.getenv("NEMO_DB_PATH", "Sistema/conhecimento.db")
 )
 
 embedding = embedding_functions.OllamaEmbeddingFunction(
     model_name="nomic-embed-text",
-    url="http://localhost:11434"
+    url=os.getenv("OLLAMA_URL", "http://localhost:11434")
 )
 
 colecao = cliente.get_collection(
-    name="proelium",
+    name=os.getenv("NEMO_COLLECTION", "proelium"),
     embedding_function=embedding
 )
 
@@ -432,7 +433,7 @@ Responda de forma:
 """
 
     resposta = requests.post(
-        "http://localhost:11434/api/generate",
+        f"{os.getenv('OLLAMA_URL', 'http://localhost:11434').rstrip('/')}/api/generate",
         json={
             "model": "nemo",
             "prompt": prompt,
